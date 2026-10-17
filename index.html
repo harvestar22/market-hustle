@@ -7,7 +7,8 @@
 <meta name="description" content="Market Hustle: trading education, live sessions, signal ideas and journaling tools for traders. Take the 2-minute quiz to find your path.">
 <meta property="og:title" content="Market Hustle">
 <meta property="og:description" content="Trading education, psychology and a community that keeps you disciplined. Take the 2-minute quiz.">
-<link rel="icon" href="assets/logo-mark.svg" type="image/svg+xml">
+<link rel="icon" href="assets/favicon.png" type="image/png">
+<meta property="og:image" content="assets/mh-logo.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,600;0,800;1,800&family=DM+Sans:wght@400;500;700&display=swap">
 <style>
@@ -25,6 +26,9 @@ a{color:var(--violet)}
 header.top{position:sticky;top:0;z-index:5;background:rgba(255,255,255,.88);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
 header.top .wrap{display:flex;align-items:center;justify-content:space-between;height:68px;gap:12px}
 header.top img{height:40px;display:block}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink)}
+.brand img{width:44px;height:44px;border-radius:12px;object-fit:cover;box-shadow:0 4px 14px rgba(59,23,100,.35)}
+.brand b{font:800 17px/1 var(--display);letter-spacing:.06em}.brand b em{font-style:normal;color:var(--violet)}
 .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;border:0;border-radius:999px;padding:14px 26px;font:700 16px var(--body);cursor:pointer;text-decoration:none;transition:transform .15s,box-shadow .15s}
 .btn.primary{background:linear-gradient(135deg,var(--violet),var(--plum));color:#fff;box-shadow:0 8px 24px rgba(124,77,219,.28)}
 .btn.primary:hover{transform:translateY(-1px)}
@@ -90,7 +94,7 @@ h2 em{font-style:italic;color:var(--violet)}
 .faq summary{font:700 17px var(--body);cursor:pointer}
 .faq p{color:var(--muted);margin:10px 0 0}
 footer{background:#120f1b;color:#b9b4c6;font-size:13px;padding-block:40px}
-footer img{height:36px;filter:brightness(0) invert(1);opacity:.9}
+footer .brand{color:#fff}footer .brand b em{color:var(--lilac)}
 footer p{max-width:85ch}
 @media (max-width:860px){.hero .wrap{grid-template-columns:1fr}.phone{display:none}.grid3{grid-template-columns:1fr 1fr}.steps{grid-template-columns:1fr 1fr}}
 @media (max-width:560px){.grid3,.steps,.opts,.brokers{grid-template-columns:1fr}section{padding-block:52px}}
@@ -99,7 +103,7 @@ footer p{max-width:85ch}
 </head>
 <body>
 <header class="top"><div class="wrap">
-  <a href="#" aria-label="Market Hustle home"><img src="assets/logo.svg" alt="Market Hustle"></a>
+  <a href="#" class="brand" aria-label="Market Hustle home"><img src="assets/mh-logo.png" alt=""><b>MARKET <em>HUSTLE</em></b></a>
   <a class="btn primary" href="#quiz">Find my path</a>
 </div></header>
 
@@ -179,7 +183,7 @@ footer p{max-width:85ch}
 </main>
 
 <footer><div class="wrap">
-  <img src="assets/logo.svg" alt="Market Hustle">
+  <span class="brand"><img src="assets/mh-logo.png" alt=""><b>MARKET <em>HUSTLE</em></b></span>
   <p><b>Risk warning:</b> Trading forex, gold, indices and CFDs involves a high level of risk and may not be suitable for everyone. You can lose some or all of your deposit. Only trade with money you can afford to lose. Past performance and trade ideas do not guarantee future results.</p>
   <p><b>Not financial advice:</b> All content, classes and signal ideas are for education only. You are responsible for your own trading decisions.</p>
   <p><b>Partner disclosure:</b> Market Hustle may receive compensation from the brokers linked on this page when you open or fund an account. Bonus offers are provided by the broker and subject to their terms.</p>
