@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Market Hustle">
+  <defs>
+    <linearGradient id="mhBg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#3b1764"/></linearGradient>
+    <linearGradient id="mhSilver" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#c6c4ce"/></linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="28" fill="url(#mhBg)"/>
+  <g fill="url(#mhSilver)" stroke="#e4e2ea" stroke-width="3.5" stroke-linecap="round">
+    <line x1="35" y1="58" x2="35" y2="96"/><rect x="28" y="66" width="14" height="24" rx="2.5" stroke="none"/>
+    <line x1="60" y1="40" x2="60" y2="86"/><rect x="53" y="48" width="14" height="30" rx="2.5" stroke="none"/>
+    <line x1="85" y1="22" x2="85" y2="72"/><rect x="78" y="30" width="14" height="34" rx="2.5" stroke="none"/>
+  </g>
+  <path d="M20 88 L46 64 L62 74 L95 36" fill="none" stroke="#d6c4ff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M84 33 L99 31 L97 46 Z" fill="#d6c4ff"/>
+</svg>
