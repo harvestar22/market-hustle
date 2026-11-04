@@ -3001,6 +3001,31 @@
    ]
   },
   {
+   "name": "2026-11-26-0905-reel-op90-mh061-two-ways-to-start-monday",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 254,
+     "sha256": "5a65953a1912714324d7513c105784a7fb581e64d61fba92fd0f5628c097c7de"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 220608,
+     "sha256": "d2a1bb59a33d79feda58c7011385334f560ad52c6cb36500ee8a5a777bab42ec"
+    },
+    {
+     "name": "op90-mh-061-v2.mp4",
+     "size": 5771804,
+     "sha256": "74aaba5b17377873ea4bb96cfe100b8ada49606a0c24aa9527a34a6a96046862"
+    },
+    {
+     "name": "post.json",
+     "size": 242,
+     "sha256": "7f14de8d528b3238db7212e0a86d72bd6e239c58db7381eb0d1516612c5f8ec0"
+    }
+   ]
+  },
+  {
    "name": "2026-11-26-1100-carousel-n65-ugly-middle",
    "files": [
     {
@@ -3047,6 +3072,31 @@
      "name": "post.json",
      "size": 245,
      "sha256": "2189d3d0891e5cbd62ac69ad91cc99aff729613e7ce9a496012f7e007d4ccd43"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-26-1305-reel-op90-mh062-patience-is-a-position",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 325,
+     "sha256": "ff154d956fdf5ac1cf95654f375762874210513b8353669cabdc2b2736995fab"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 225797,
+     "sha256": "532533ac651a7e5074e2fd19f160006979cfe9736b36fc2307e97ceb6b37999b"
+    },
+    {
+     "name": "op90-mh-062-v2.mp4",
+     "size": 5622091,
+     "sha256": "0006840768b12b905243792922c0c028bdb7bedcdd892aed910c0f89a36c7a5b"
+    },
+    {
+     "name": "post.json",
+     "size": 238,
+     "sha256": "4b979adbe217af6ac5804f9bfe8b9e271f398e16a3df6393dbda8d0009bba3f1"
     }
    ]
   },
@@ -3101,6 +3151,31 @@
    ]
   },
   {
+   "name": "2026-11-26-1805-reel-op90-mh063-one-grain-at-a-time",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 221,
+     "sha256": "af2ebab2696ccde1f3b5bb0c9d1d47ddd41957a08705321ddeecd144e27dad1e"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 179346,
+     "sha256": "d45fe135e69e2936b17ac4c72097cde96bf1ef66210b33644589f8b0cd2a1ff4"
+    },
+    {
+     "name": "op90-mh-063-v2.mp4",
+     "size": 6595890,
+     "sha256": "0adb9c830c99cedca5a4c0a6b3f7420471afefa4278b71364fa1060a9d54f9ce"
+    },
+    {
+     "name": "post.json",
+     "size": 232,
+     "sha256": "e0e228371c18e6b6188fc0dccdb579330160f2ff029ae146a6e1e4a8e6026a7f"
+    }
+   ]
+  },
+  {
    "name": "2026-11-26-2000-carousel-n67-nobody-watching",
    "files": [
     {
@@ -3147,6 +3222,31 @@
      "name": "post.json",
      "size": 233,
      "sha256": "54c920f02e67b159d1a7072fa6ba1cabef38ad3d8a967cc94994b11f338725b9"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-27-0905-reel-op90-mh064-their-trophy-your-day-one",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 245,
+     "sha256": "872b0c307b0948e885eb7d52cf9fe6a9425e2db2acc1e12afcf464e3751bd5a2"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 214021,
+     "sha256": "4f5b3da7bff273146eea1bee6f554323a68ae451ab45267dc2c3afd12b2ca737"
+    },
+    {
+     "name": "op90-mh-064-v2.mp4",
+     "size": 5499481,
+     "sha256": "e9aa03d62260c6beeec113b2e94c6d7809d7f144f0316b0ccc893de4192c292c"
+    },
+    {
+     "name": "post.json",
+     "size": 245,
+     "sha256": "263bb4f3d40ed3f73f2392b1e5ff1d6675e6cc6b483c5e36ac481e6961670ee3"
     }
    ]
   },
@@ -3201,6 +3301,31 @@
    ]
   },
   {
+   "name": "2026-11-27-1305-reel-op90-mh065-the-planning-fallacy",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 289,
+     "sha256": "29cb4580c49d843579ceb48daf3a96d8565737e1a727497f7b656a9e4940a5f8"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 194321,
+     "sha256": "e02ff454a954d47cdeb11fbe31d2eeda9e37e0c0b92306228cdd946938533dfc"
+    },
+    {
+     "name": "op90-mh-065-v2.mp4",
+     "size": 5837342,
+     "sha256": "878fb43f70941def26fe8135bd6e6378fdb5a3936fcd7f89f9b15d3891bf47db"
+    },
+    {
+     "name": "post.json",
+     "size": 234,
+     "sha256": "d7485a85790c46ae139c14178fd485b0c3c0b528de8e8d3e353cf5df010689d9"
+    }
+   ]
+  },
+  {
    "name": "2026-11-27-1500-carousel-n69-thirty-day-skill",
    "files": [
     {
@@ -3247,6 +3372,31 @@
      "name": "post.json",
      "size": 235,
      "sha256": "9548df594e86f867c4f10ae061f2fd6aa97c877c8605f25c0b88a001ba35fd81"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-27-1805-reel-op90-mh066-show-up-anyway",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 238,
+     "sha256": "001b80f9da798627f7d54553c92ae3c013af1780a0a5cb5dfc49409d0555a6b3"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 220377,
+     "sha256": "14bd3f5d157445af8596870d8a243026927195967e64a9e0b73a681b84210899"
+    },
+    {
+     "name": "op90-mh-066-v2.mp4",
+     "size": 7867067,
+     "sha256": "9a118ed5a87e4c5a1f0f9ed44cfafdbb598cc5e3d3fb3c1af8fa413a4375f587"
+    },
+    {
+     "name": "post.json",
+     "size": 222,
+     "sha256": "f434636992110c4b32a293640d887496934b5d92134a5082f32c0336044cf2ad"
     }
    ]
   },
