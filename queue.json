@@ -4126,6 +4126,31 @@
    ]
   },
   {
+   "name": "2026-12-01-0905-reel-op90-mh076-not-yet-is-a-deposit",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 215,
+     "sha256": "5b763c8c284fe0d64037061296b28064bc89c9cbfa12ceef157339e5f98b8077"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 213205,
+     "sha256": "bfbec0186ecbde8372458593932c9fd95cfd0d0ffcf579749001b56df2afcfcc"
+    },
+    {
+     "name": "op90-mh-076-v2.mp4",
+     "size": 6987208,
+     "sha256": "aa5ec6365536ae126b496fb1620094116b906382f95cc651c26a269c0664dc34"
+    },
+    {
+     "name": "post.json",
+     "size": 240,
+     "sha256": "701b22f9e652a665bfe0b66e8becaf48f0b09fd8f95075e44d5b768855c0142f"
+    }
+   ]
+  },
+  {
    "name": "2026-12-01-1100-carousel-n80-first-loss",
    "files": [
     {
@@ -4172,6 +4197,31 @@
      "name": "post.json",
      "size": 231,
      "sha256": "0ad16ebe5780a6e2272eca67e33c485c59eaef8bd0ca1ae0c293e196ce43d155"
+    }
+   ]
+  },
+  {
+   "name": "2026-12-01-1305-reel-op90-mh077-the-bandwagon",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 340,
+     "sha256": "998ec6df77bc4eae6c72c047e72cd27471ae687b84bd5d39ba8b7cd66808d002"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 204854,
+     "sha256": "fd11dd39a4e8e7984a3bc47c8eb93a0e5392c2aa38bf6db76bf133a304fc653b"
+    },
+    {
+     "name": "op90-mh-077-v2.mp4",
+     "size": 6031997,
+     "sha256": "eb23f8f35c8c94fbc7ccf9c6fe8cb76336415b520a00e9a756b12ecc3d920603"
+    },
+    {
+     "name": "post.json",
+     "size": 220,
+     "sha256": "cd577da13f3638dfe9438baa8eb091ae4b7762ad2179b7826565e8fe79685a1a"
     }
    ]
   },
@@ -4226,6 +4276,31 @@
    ]
   },
   {
+   "name": "2026-12-01-1805-reel-op90-mh078-rules-become-wings",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 261,
+     "sha256": "5807bdab90fc7f9fb9c1c1b08e42b5f6501fb1a5fc52ab912940611e6cc672ea"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 225506,
+     "sha256": "25f19e0f3456e1fc80b272fc8521bebdf3ab27199ab87685d93903caa5ea4fbd"
+    },
+    {
+     "name": "op90-mh-078-v2.mp4",
+     "size": 7331770,
+     "sha256": "b259f847675150c081992d67423940746152e1e28fb5d5cd57851da631593b50"
+    },
+    {
+     "name": "post.json",
+     "size": 230,
+     "sha256": "d5c68c0d92a17f87600c87a0787d0a789c1354cc0b595819917fbd2a688296ba"
+    }
+   ]
+  },
+  {
    "name": "2026-12-01-2000-carousel-n82-letter-future-you",
    "files": [
     {
@@ -4272,6 +4347,31 @@
      "name": "post.json",
      "size": 223,
      "sha256": "b8a249cad77ad3e5f4910031f9f646d807b6b03c8affd965d51bf41bd7b6e67c"
+    }
+   ]
+  },
+  {
+   "name": "2026-12-02-0905-reel-op90-mh079-the-two-wallets",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 246,
+     "sha256": "8c0afa9392e602eaaeaa28a419837c9ec96a4d23e0a9592ad2a61b821e043adf"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 230775,
+     "sha256": "1f4ba67402a397270ab9d1ae943d73a67decaa362a5099dd88faf95d1a9adeff"
+    },
+    {
+     "name": "op90-mh-079-v2.mp4",
+     "size": 6935638,
+     "sha256": "b849f86e928d7416cca23270675b5b187958c83d52a929f7f9195344d6383b62"
+    },
+    {
+     "name": "post.json",
+     "size": 224,
+     "sha256": "ff4f5b9cfeebf71f9f81658cfd59e3b24c4c6e2cb582670bb474bd56bce5f57b"
     }
    ]
   },
@@ -4326,6 +4426,31 @@
    ]
   },
   {
+   "name": "2026-12-02-1305-reel-op90-mh080-small-losses-are-rent",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 332,
+     "sha256": "650d29fc65bb7f49f6a98308f28b9a4f28063c9738314c2136b76a5693bc68a6"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 251139,
+     "sha256": "7e443a81ffb1c98f6e9c4165ebb7f5f4c3a4f34917f0b8495f29c4b5bf13438f"
+    },
+    {
+     "name": "op90-mh-080-v2.mp4",
+     "size": 6030275,
+     "sha256": "3ff8350639b9a46b11de77c8a9f47525ec5b56facac3083cdd2ed3a23c5a2885"
+    },
+    {
+     "name": "post.json",
+     "size": 239,
+     "sha256": "b14546f7188ca33bd506e0de6f55167286bb43a33c4bfe1a2dce03b3b0073662"
+    }
+   ]
+  },
+  {
    "name": "2026-12-02-1500-carousel-n84-three-stop-types",
    "files": [
     {
@@ -4372,6 +4497,31 @@
      "name": "post.json",
      "size": 233,
      "sha256": "77f3d05c55ffe3ba449edc87e1c2541bcfe9cf72ede07fc347eaeb9f75ef53d5"
+    }
+   ]
+  },
+  {
+   "name": "2026-12-02-1805-reel-op90-mh081-the-long-game",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 208,
+     "sha256": "063860b37eabb36d17b69da008ae1077cf57794f583c6493ae0132cb6861077e"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 205564,
+     "sha256": "185585bbd39f6949fa5de2cc1f48689d6d823b491b16de071170bb9546c4fa8d"
+    },
+    {
+     "name": "op90-mh-081-v2.mp4",
+     "size": 6933175,
+     "sha256": "8cbfb37a21e0985868ef548fe4d80150df169a205c806ec2ae659eb4ec4a38ab"
+    },
+    {
+     "name": "post.json",
+     "size": 220,
+     "sha256": "64c9001fb2549ae053af25d2bbc4121712bd42bde85a10a0c5c590eef3131198"
     }
    ]
   },
@@ -4426,6 +4576,31 @@
    ]
   },
   {
+   "name": "2026-12-03-0905-reel-op90-mh082-the-gym-mirror",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 214,
+     "sha256": "cee5e7386e7c466c5a36330d9c3e82fee254a12954fae0f094f334dd59eae650"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 225037,
+     "sha256": "40a3fd123611f6828fecb5d92f3003f634eb92304b903205d19bb87b531cc9a9"
+    },
+    {
+     "name": "op90-mh-082-v2.mp4",
+     "size": 6181336,
+     "sha256": "6deb4d7fc36275d53c300e3155c2b110724035c0eb4db86f4ec09a3096582c15"
+    },
+    {
+     "name": "post.json",
+     "size": 222,
+     "sha256": "c4f32fb1ba1e2334096854bd6f63a2f71e523132367a764371ba89d1f2604800"
+    }
+   ]
+  },
+  {
    "name": "2026-12-03-1100-carousel-n86-launch-small",
    "files": [
     {
@@ -4476,6 +4651,31 @@
    ]
   },
   {
+   "name": "2026-12-03-1305-reel-op90-mh083-present-bias-test",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 229,
+     "sha256": "de83d76f4129c6024155460604f506f342f1b25b272369d5ae8711d96da89faa"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 217635,
+     "sha256": "9cbfe49cf2dbb0c358c683ea0f21a91bcc0d65ef22d8114c267366d750464398"
+    },
+    {
+     "name": "op90-mh-083-v2.mp4",
+     "size": 5766911,
+     "sha256": "02103925b62677d8b871c5bd8670d868c6571533d7228e2fcbb83384b79c51e9"
+    },
+    {
+     "name": "post.json",
+     "size": 228,
+     "sha256": "3e3116c4524002a0c4f90fb8bfefd186eff11858f95e5f2defd2d9a81115a68c"
+    }
+   ]
+  },
+  {
    "name": "2026-12-03-1500-carousel-n87-mental-models",
    "files": [
     {
@@ -4517,6 +4717,31 @@
      "name": "post.json",
      "size": 230,
      "sha256": "f51ef78e7aec8d30d84f8788e83ab61610f800dd7e1985084a509a404f2c88c8"
+    }
+   ]
+  },
+  {
+   "name": "2026-12-03-1805-reel-op90-mh084-every-habit-is-a-rehearsal",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 251,
+     "sha256": "a7b70e16593c7d2d118acbbe94ed50bd238737af5b0d732b7c4f5ab52692f67a"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 244483,
+     "sha256": "681179fa66b8e88569ee2e383c6896b76c76534ceaf0f4b6e7a28d24830194e0"
+    },
+    {
+     "name": "op90-mh-084-v2.mp4",
+     "size": 8164984,
+     "sha256": "b067bdfecc541ff3bbbd777f037344b5ba8ff6dbece2154577f5450247c4d089"
+    },
+    {
+     "name": "post.json",
+     "size": 246,
+     "sha256": "c4f06e96772404003271a06f43c150e79b69c0b957192d406640ca6c2ac7f9a9"
     }
    ]
   },
@@ -4571,6 +4796,31 @@
    ]
   },
   {
+   "name": "2026-12-04-0905-reel-op90-mh085-same-goal-different-checklist",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 370,
+     "sha256": "c7634fc7c4d542cb845958d8e64c61b3829c2df3142b183a7724f086f8c24089"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 224039,
+     "sha256": "92145079ce4e6210694878029385e99f2b6b7497dd53f544bb8354bb7aba066c"
+    },
+    {
+     "name": "op90-mh-085-v2.mp4",
+     "size": 5809603,
+     "sha256": "de1f27bc0fe6523dd7d5d87e200df80651def32d66fe64ba21c1e166560c0b5d"
+    },
+    {
+     "name": "post.json",
+     "size": 253,
+     "sha256": "dc0a37230bd5d4e60f49c87b9cc833386d7388b51c15c161bcaa9cfe5c8c5e47"
+    }
+   ]
+  },
+  {
    "name": "2026-12-04-1100-carousel-n89-forced-trade",
    "files": [
     {
@@ -4617,6 +4867,31 @@
      "name": "post.json",
      "size": 232,
      "sha256": "f89bb947c3e1e156c8d2f93432bac56cdab3b2338de57303baa0363e0c356ab4"
+    }
+   ]
+  },
+  {
+   "name": "2026-12-04-1305-reel-op90-mh086-the-trade-you-didnt-plan",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 306,
+     "sha256": "941814f82d408fdb12a055793f63b7958cf91721d114201f1939ba13d632664a"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 192764,
+     "sha256": "3742fb1cf0c7e0cb43115be6fddd437fdb26db39ccd427dabc33afa7c1173a4e"
+    },
+    {
+     "name": "op90-mh-086-v2.mp4",
+     "size": 5544203,
+     "sha256": "55990afa6761b4a1029709fe56e2aa9634c91fbe48f8f17511f3c4cf4381af56"
+    },
+    {
+     "name": "post.json",
+     "size": 243,
+     "sha256": "f2a3f93acf1f8f69922be822c05ee44486566e791b16279b280809be67840fc5"
     }
    ]
   },
@@ -4671,6 +4946,31 @@
    ]
   },
   {
+   "name": "2026-12-04-1805-reel-op90-mh087-trust-the-process",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 242,
+     "sha256": "ce8f9bd808a4867faad09ab3056163e8db0b5396c8c71f7229bdd629f19fcd9e"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 188335,
+     "sha256": "3f85884a54602115895101990c22d00981e5ae1115b321993b11bac6010ca6e5"
+    },
+    {
+     "name": "op90-mh-087-v2.mp4",
+     "size": 6473216,
+     "sha256": "4adc22816dcd88b1cd9f4a03f95a01a313490a6c54046c28f532a1681726028d"
+    },
+    {
+     "name": "post.json",
+     "size": 228,
+     "sha256": "d704a2ad4f6b95bae8c03d9c151e23bc24a5903515bb3ac65c9ae989d3e6efd1"
+    }
+   ]
+  },
+  {
    "name": "2026-12-04-2000-carousel-n91-market-owes-nothing",
    "files": [
     {
@@ -4717,6 +5017,81 @@
      "name": "post.json",
      "size": 222,
      "sha256": "d533e5180f02b9c25fcc454fde1b1eef9e536b769de0fb54289c7e137a64451a"
+    }
+   ]
+  },
+  {
+   "name": "2026-12-05-0905-reel-op90-mh088-seeds-and-fruit",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 225,
+     "sha256": "23a69156658837bf924df711c52e3cec86350cf561b3321701667ea9ea140863"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 208958,
+     "sha256": "98cde458807496324508684a1acaa3fd4e5897513ba77d0e06b5c707011060ae"
+    },
+    {
+     "name": "op90-mh-088-v2.mp4",
+     "size": 6940172,
+     "sha256": "21892b11b88c01783f1b5b2803edb259bbff8ddfd379f3698061d97307a79b33"
+    },
+    {
+     "name": "post.json",
+     "size": 224,
+     "sha256": "21d54ab04fc8e2b1c5e954f501ff285e05845d88ee77043a66052167f97c39eb"
+    }
+   ]
+  },
+  {
+   "name": "2026-12-05-1305-reel-op90-mh089-status-quo-bias",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 299,
+     "sha256": "0136c6795ed3b8f9f61dc1fb2c83d80d8b8f64dd9561818a0cd4a951cbc306ef"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 211536,
+     "sha256": "b6cb4383259d3d5521ceab1da2810e7b63ab92fed149793317b035d6e77d9602"
+    },
+    {
+     "name": "op90-mh-089-v2.mp4",
+     "size": 6078624,
+     "sha256": "5519f2bbff2e94548042b46ce2384d6326a5968daa5befd1ae83cb88c4e6904b"
+    },
+    {
+     "name": "post.json",
+     "size": 224,
+     "sha256": "75916acec63f7174ca63df186a5dd93125c50014184227d6594f6c8be61cb9c0"
+    }
+   ]
+  },
+  {
+   "name": "2027-02-01-1805-reel-op90-mh090-day-90",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 215,
+     "sha256": "3832a7611451f724bded9b57cdd676a53577b56fac153cb8208ce8fc3d4992f1"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 169686,
+     "sha256": "f748e46e13d22eb3ae888668092f5098c5b3512cc88e6bc3f4d2018acdac572d"
+    },
+    {
+     "name": "op90-mh-090-v2.mp4",
+     "size": 6077812,
+     "sha256": "6fbfe3b819fdfd7a3d9aa93d2809b300269bf2b3caa3d6879620b7da306f965b"
+    },
+    {
+     "name": "post.json",
+     "size": 206,
+     "sha256": "8dfd131a16e4c729220065262cb1c1f4bab37a66023acdf00be1c87a9b0fe3ee"
     }
    ]
   },
