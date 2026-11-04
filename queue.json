@@ -1431,6 +1431,31 @@
    ]
   },
   {
+   "name": "2026-11-19-0905-reel-op90-mh040-buy-now-pay-forever",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 300,
+     "sha256": "e7be94aa1158620cca49d48735796ad86543d7a2bdc11dcb4e13be520f82bbac"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 211846,
+     "sha256": "0426c6b696117471b1af2c3c862918991692f68a7b63a7ba320c19efa08a30d1"
+    },
+    {
+     "name": "op90-mh-040-v2.mp4",
+     "size": 7173849,
+     "sha256": "fa4e189de6d3af351c63e06daf1f98e315e8bddac79a535f7670eb4fdd5e2967"
+    },
+    {
+     "name": "post.json",
+     "size": 233,
+     "sha256": "96ea0b66d557dd2380e4e5cc925369df91ca18a1c6dfe692af5eac3abee2f91a"
+    }
+   ]
+  },
+  {
    "name": "2026-11-19-1100-carousel-n44-old-phone",
    "files": [
     {
@@ -1477,6 +1502,31 @@
      "name": "post.json",
      "size": 227,
      "sha256": "e0ddcc9ad189f6c7f887a169085dda7da88f5512aee6789b9a5f58d034f2f1cc"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-19-1305-reel-op90-mh041-the-spotlight-effect",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 286,
+     "sha256": "9ee02dcf0a5c32ef04f89a18d0c31ce9a5b8e80799758eb42fdee3949d2285aa"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 342792,
+     "sha256": "de00d20ebacae202f2d51b44fbe6438754c77f83c627949cbbbadef7327ea580"
+    },
+    {
+     "name": "op90-mh-041-v2.mp4",
+     "size": 10360089,
+     "sha256": "b9f45b1de586325acbd0e50e15a8b8270c08df6fa3ecdc00a05ea50c15fbeb41"
+    },
+    {
+     "name": "post.json",
+     "size": 234,
+     "sha256": "ff9f88a74b6e3742003f1e3ac58d68de9dcb28990ccd9140f4502b73adf02712"
     }
    ]
   },
@@ -1531,6 +1581,31 @@
    ]
   },
   {
+   "name": "2026-11-19-1805-reel-op90-mh042-choose-your-hard",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 216,
+     "sha256": "bea3172d05a72f0ea40624e9fcbbfbe7d16de26c333a6d812c17b7b2dbcbcade"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 240076,
+     "sha256": "96ed69432ec481c26bda94daabb5500cffa26df6f50fc72d1e1e824ccdc83942"
+    },
+    {
+     "name": "op90-mh-042-v2.mp4",
+     "size": 7838991,
+     "sha256": "cf7bcd6d09762ecb03b6e257f6d9a66d04ec41b2e85ebcdc5cf31cae8c460634"
+    },
+    {
+     "name": "post.json",
+     "size": 226,
+     "sha256": "a7452ca5fda7b4dd5f973691d39657b6d0f3870c37504f6a61b9a3f9419d3325"
+    }
+   ]
+  },
+  {
    "name": "2026-11-19-2000-carousel-n46-chart-mirror",
    "files": [
     {
@@ -1577,6 +1652,31 @@
      "name": "post.json",
      "size": 208,
      "sha256": "d34a4e97dfd4f5012f2b891f1ce43b9cede255fdf8b1494769fe58b97fb7b2c7"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-20-0905-reel-op90-mh043-the-same-24-hours",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 218,
+     "sha256": "93bff4dc838df8046a0a64711069e203eb53a42cb9123a33fbfadc723c735cf4"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 266415,
+     "sha256": "ab1fdd2cc14319edc110a25c2cdaa2135306e028131a1ab5dc8c88aec6ba028b"
+    },
+    {
+     "name": "op90-mh-043-v2.mp4",
+     "size": 7211933,
+     "sha256": "88b15feada17c6c60c78f36ec395ded910955e5f2636438e664106c8f094c0ea"
+    },
+    {
+     "name": "post.json",
+     "size": 228,
+     "sha256": "ce589aff9f1a17e219aa7b56eaed9cb9476e919fbed7beb184653c5a5938a3bb"
     }
    ]
   },
@@ -1631,6 +1731,31 @@
    ]
   },
   {
+   "name": "2026-11-20-1305-reel-op90-mh044-market-doesnt-owe-you",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 331,
+     "sha256": "bc7b4768aaf681d977f64cdf092969417fa78da6449550ef0a85933a291b0650"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 251828,
+     "sha256": "285cb06e7b53737be36f5fc77c5c1cdf14dbc8c2fa9d2db3847070d03c755a07"
+    },
+    {
+     "name": "op90-mh-044-v2.mp4",
+     "size": 6078924,
+     "sha256": "8ef7d0a409eb2b671504f2eed45618116c05ee13489094ad3faf06bed9c3e048"
+    },
+    {
+     "name": "post.json",
+     "size": 241,
+     "sha256": "0a2b60f2eee96aa524946c05dd4e7e87dfaebe27805407ad35064a8ee509311b"
+    }
+   ]
+  },
+  {
    "name": "2026-11-20-1500-carousel-n48-sunday-review",
    "files": [
     {
@@ -1677,6 +1802,31 @@
      "name": "post.json",
      "size": 234,
      "sha256": "31a8e7770ba34fcafc7b98d134ecf09780fc9fec2b0e8b31530404d6a1311d0a"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-20-1805-reel-op90-mh045-silence-is-a-strategy",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 235,
+     "sha256": "86db5c064263765126529fe98ac57d93bced77b20a1c46365a8ef458418ead00"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 248214,
+     "sha256": "3a8dcc63bf7269e42af85ca9fb3a7b55c374b30eb8853c0116994557c16404a1"
+    },
+    {
+     "name": "op90-mh-045-v2.mp4",
+     "size": 6430473,
+     "sha256": "c0ea4e06f4f1c01b6844817ec14ada0c482504b83c96d5596895eb52b7675fac"
+    },
+    {
+     "name": "post.json",
+     "size": 236,
+     "sha256": "d0d98cdf080054a629e7c43faeb4230a0c2f2b5157802671d0a2f8c2a9d265ae"
     }
    ]
   },
@@ -1731,6 +1881,31 @@
    ]
   },
   {
+   "name": "2026-11-21-0905-reel-op90-mh046-the-overnight-elevator",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 229,
+     "sha256": "d4ee99ff5c9d83fd25f60092e61d68373e76f94da9527fe40fc5e2d88583c4e2"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 235610,
+     "sha256": "257cdeff35a074804556704099db3476f4ba9576024c2cb7f738cd05d9f3b97d"
+    },
+    {
+     "name": "op90-mh-046-v2.mp4",
+     "size": 10537359,
+     "sha256": "26cb0d2fd01ae9d657ff3f957fdd60fb12b2debdee96c213aae699d80412f8a4"
+    },
+    {
+     "name": "post.json",
+     "size": 238,
+     "sha256": "218ef87e84c0fff8dfdf59fc832b46645822c46678d3d186808ada85dede6b84"
+    }
+   ]
+  },
+  {
    "name": "2026-11-21-1100-carousel-n50-bad-with-money",
    "files": [
     {
@@ -1781,6 +1956,31 @@
    ]
   },
   {
+   "name": "2026-11-21-1305-reel-op90-mh047-loss-aversion",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 422,
+     "sha256": "64aa8f005496295b503b0c4373cd4a7e459b7fdc1ebf9b82fa46adff7cf37f32"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 218999,
+     "sha256": "a5fb70684d9218577a214942a972e0205e393be6511eaa76b2537019e2084518"
+    },
+    {
+     "name": "op90-mh-047-v2.mp4",
+     "size": 6120358,
+     "sha256": "b37121ad22243f5de68916c34db1cafbf0019ee0f896c86d301029c34cbe7dd9"
+    },
+    {
+     "name": "post.json",
+     "size": 220,
+     "sha256": "cd108fd90f96774667a89751c1ce35943c71209fb19520ea37f74128bbdede3f"
+    }
+   ]
+  },
+  {
    "name": "2026-11-21-1500-carousel-n51-savings-buffer",
    "files": [
     {
@@ -1827,6 +2027,31 @@
      "name": "post.json",
      "size": 240,
      "sha256": "e48e6e75f7c9acaa01492e3a93f6d671caa156f5f8c717d51ad55dc81674ccef"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-21-1805-reel-op90-mh048-stay-when-its-boring",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 225,
+     "sha256": "46878c5e87aeccf5d83f547187bd19348e670982e230c14e29830121ebe27f4d"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 192466,
+     "sha256": "ddff169487510f3f352ef0efdb1a50f1a5e8ba2519beb206ba7b6bcebc8e6014"
+    },
+    {
+     "name": "op90-mh-048-v2.mp4",
+     "size": 8827234,
+     "sha256": "0cdf8701bdcc1409f17f20a15b47fcd2a88cd9dcff0975d2ec02170326eff3ae"
+    },
+    {
+     "name": "post.json",
+     "size": 235,
+     "sha256": "4dd2806877bf7e1f3c11a3ee179f5fef6112f1277b68dacba337e13baca12c11"
     }
    ]
   },
