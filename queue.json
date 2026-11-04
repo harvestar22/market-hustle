@@ -151,6 +151,31 @@
    ]
   },
   {
+   "name": "2026-11-13-0905-reel-op90-mh028-the-compound-snowball",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 245,
+     "sha256": "dd1fa14d84ab6b73251eef0882be83ef80d2c7586cfab8ce0450d0c4aab0a872"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 202418,
+     "sha256": "df375c94eb5b6304bb595410a515ccec314aa6c2f3e85d4e83f93e760123b4e7"
+    },
+    {
+     "name": "op90-mh-028-v2.mp4",
+     "size": 6607347,
+     "sha256": "65cf143046762508538b3da0e237179ea2d2f940009e712892420f0552cba608"
+    },
+    {
+     "name": "post.json",
+     "size": 236,
+     "sha256": "67b5c81101454182a8e86ea380a237055fbe108a64d9dcaae88210b9b92e8ed1"
+    }
+   ]
+  },
+  {
    "name": "2026-11-13-1100-carousel-n30-thousand-now",
    "files": [
     {
@@ -197,6 +222,31 @@
      "name": "post.json",
      "size": 250,
      "sha256": "aa04c4c50f3f56f873963b77ce0c3ef0d56a805424dc4dc511de613efc7eb2be"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-13-1305-reel-op90-mh029-the-endowment-effect",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 373,
+     "sha256": "57929fcdb9f49eb44f2db8259d70aa617acde9d4c9f8bccafce16bc390e4553f"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 199668,
+     "sha256": "ed4dae1532385beb28bd52d415f385567444ae2f7e4c6afa14a3f75d353089cd"
+    },
+    {
+     "name": "op90-mh-029-v2.mp4",
+     "size": 5315005,
+     "sha256": "eb6c7b449e145c670a3d27303a58573fc5708e765b115b1cc45ac39371e401f4"
+    },
+    {
+     "name": "post.json",
+     "size": 234,
+     "sha256": "f9df685bf307b8a6af68b7964e6a2b29f2684eb13a28f8aa698ef78ab634cc83"
     }
    ]
   },
@@ -251,6 +301,31 @@
    ]
   },
   {
+   "name": "2026-11-13-1805-reel-op90-mh027-comfort-is-a-slow-cage",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 227,
+     "sha256": "66be3384819ea8a0f2bd2691e63f0291f834d7bd4404ad4b347e364f402691e8"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 229246,
+     "sha256": "b3cd43e8311ceb68d2e7612f0d131a2d8ccd5d68f09f4b4afcf78aa1100caaf2"
+    },
+    {
+     "name": "op90-mh-027-v2.mp4",
+     "size": 6212021,
+     "sha256": "73e142fb87454d27def2f6fdfd3129a195b5a28d6360da1bea28b96b06683baf"
+    },
+    {
+     "name": "post.json",
+     "size": 238,
+     "sha256": "0d7a7ed88a13c0214238e8195e9211b860404e16719721034e870c6f34c64be1"
+    }
+   ]
+  },
+  {
    "name": "2026-11-13-2000-carousel-n27-gym-taught-him",
    "files": [
     {
@@ -297,6 +372,31 @@
      "name": "post.json",
      "size": 251,
      "sha256": "b8c49fe43caf2c559f01b4f209202a68a3f1de7da163e86156244122a2416c0d"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-14-0905-reel-op90-mh025-two-mornings",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 245,
+     "sha256": "e0a0da5b2c5e3ad480708549f8c65244e3e4ccbe59c6793fd67cd67c37e4f32b"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 210360,
+     "sha256": "72fda33d01fdbc2489589ae3ae663d353a8de3600aec5854517a06e7a93e5dbf"
+    },
+    {
+     "name": "op90-mh-025-v2.mp4",
+     "size": 5979591,
+     "sha256": "da4f2a49a3879664da98740b31416c264144ef12180fb0f1b87286382b1d7c29"
+    },
+    {
+     "name": "post.json",
+     "size": 218,
+     "sha256": "21841de18e17f0f646ce161ceaf72f1277cb4ddfdaa5d02060ffe0fa6718de60"
     }
    ]
   },
@@ -351,6 +451,31 @@
    ]
   },
   {
+   "name": "2026-11-14-1305-reel-op90-mh026-stop-loss-seatbelt",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 330,
+     "sha256": "9100ed7eebb8fe2c7abea87b97712bd14a64412cae11d6c65dd1ab26da36edd6"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 206860,
+     "sha256": "95f461bb8647f32c2943184a78e95b4bae68464815714f3766b27e2b78db7bd0"
+    },
+    {
+     "name": "op90-mh-026-v2.mp4",
+     "size": 5904038,
+     "sha256": "a55c4b68918a423684655aca3f3108c8174f6ead005a2a42d4f4c7eb7b1e5a81"
+    },
+    {
+     "name": "post.json",
+     "size": 239,
+     "sha256": "a3aadf50f54d2841644a3ac6a933121fdd96d0d40fb488a0cbd094216cb593de"
+    }
+   ]
+  },
+  {
    "name": "2026-11-14-1500-carousel-n28-why-you-procrastinate",
    "files": [
     {
@@ -397,6 +522,31 @@
      "name": "post.json",
      "size": 232,
      "sha256": "68548f67452515ecb598642812908e2a5018f6990f6766e012bdec1c19890275"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-14-1805-reel-op90-mh030-lonely-road",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 228,
+     "sha256": "eb5a14cb73153348c4728494c907bdcd73655ce33664e6cc676325013c4d107c"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 265667,
+     "sha256": "517546a57c63bbf39548c65a400be29844fb385bf0f4c98d45edef683d7264f1"
+    },
+    {
+     "name": "op90-mh-030-v2.mp4",
+     "size": 7796289,
+     "sha256": "6de2d7157bf2da01b4c67c4cec313da3b3bff39b39c1a012da7ce73ea3693137"
+    },
+    {
+     "name": "post.json",
+     "size": 216,
+     "sha256": "68a07ee4e5d082cc905febe7a1e8cbc92fa979c53c985e93b101e66104603deb"
     }
    ]
   },
