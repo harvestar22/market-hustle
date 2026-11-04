@@ -2106,6 +2106,31 @@
    ]
   },
   {
+   "name": "2026-11-22-0905-reel-op90-mh049-two-accounts-after-a-win",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 334,
+     "sha256": "bfac700fef54e0754b07356f21b096aa3a62b876164d3699ace95e7ed475a635"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 249092,
+     "sha256": "e2ad9470fd8e585bd91a554b4f63b70cf3460eadc9dbbdd7c47655b3769f6408"
+    },
+    {
+     "name": "op90-mh-049-v2.mp4",
+     "size": 5557354,
+     "sha256": "2d34523f0998da0ce44704e8a510abff68a23d490a08505ccef07d1472cae2c5"
+    },
+    {
+     "name": "post.json",
+     "size": 242,
+     "sha256": "1774cb8bf4ecdc94fcdef58500061b8f1f7f22313286272cac8d089a22843125"
+    }
+   ]
+  },
+  {
    "name": "2026-11-22-1100-carousel-n53-knew-it-would-drop",
    "files": [
     {
@@ -2152,6 +2177,31 @@
      "name": "post.json",
      "size": 231,
      "sha256": "dd67fc0b8d65eaf755228aeb462ea459e88a23725497ef9153e656ed5d567a49"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-22-1305-reel-op90-mh050-strategy-isnt-broken",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 336,
+     "sha256": "284f5ef0027c102338f02b66ae802bd84c77f8bc9348f376695c19cc2c0212a2"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 198083,
+     "sha256": "8a88622ae130b8265c04aab60b0d5ce0573f6f19bab632ad7ebb1010ecf57a66"
+    },
+    {
+     "name": "op90-mh-050-v2.mp4",
+     "size": 5637280,
+     "sha256": "c1e2971f7ab4b9163da220f0549adb0582af35b67bef8ea1647488dee92a530f"
+    },
+    {
+     "name": "post.json",
+     "size": 240,
+     "sha256": "f95992a7f2643cb5c0e385d8a2b8a7baa9954bbb48914c2d08bf9e5cb6888ce1"
     }
    ]
   },
@@ -2206,6 +2256,31 @@
    ]
   },
   {
+   "name": "2026-11-22-1805-reel-op90-mh051-become-unrecognizable",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 235,
+     "sha256": "46128f1aa86004f0271b19229edca7317b875eaa5938ab0b0849cfc7ad95abe9"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 211964,
+     "sha256": "2942b2a6d12ef6464836797ea27d667e7745f4df99805a17ddeff6ac5acf313d"
+    },
+    {
+     "name": "op90-mh-051-v2.mp4",
+     "size": 7902853,
+     "sha256": "5e57effff3fc87c94add2547cf0ba207e98b555376b40f2ce9d41596beaf14b4"
+    },
+    {
+     "name": "post.json",
+     "size": 236,
+     "sha256": "14a005250a48df92b8739d3867ff9aecdf1d6b094967ba100597b6e43497259b"
+    }
+   ]
+  },
+  {
    "name": "2026-11-22-2000-carousel-n55-applause-delayed",
    "files": [
     {
@@ -2252,6 +2327,31 @@
      "name": "post.json",
      "size": 223,
      "sha256": "93e25875ba8d1899ed2f36ca972ecc0894a26ec572ff236fbe600ed075cc90cf"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-23-0905-reel-op90-mh052-planting-day",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 281,
+     "sha256": "e70da255a71aa2aaf73ca07f0990b28874909a912e1378e595ab373093e03a2d"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 204723,
+     "sha256": "27ecd67ab83e07e022586bbab1e47129cc11ce02c83b83e2af116703861af985"
+    },
+    {
+     "name": "op90-mh-052-v2.mp4",
+     "size": 6764714,
+     "sha256": "fe6aee97d48096e57056b01845ffb178e9bee44d87c4e3e30516237783518241"
+    },
+    {
+     "name": "post.json",
+     "size": 218,
+     "sha256": "e91080b84526cb570fc9de912b4f31266be76e6bf1b7d64a1d2150b15de6b8f5"
     }
    ]
   },
@@ -2306,6 +2406,31 @@
    ]
   },
   {
+   "name": "2026-11-23-1305-reel-op90-mh053-the-decoy-effect",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 282,
+     "sha256": "084b3d356227c58e507aedab444cbf0aa326306dde36718b3038f79ea7028860"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 263495,
+     "sha256": "04e72adbbdcb1310bea67dc0fb2df9091973ca1c2db9d173a05001dfb42c2473"
+    },
+    {
+     "name": "op90-mh-053-v2.mp4",
+     "size": 6365447,
+     "sha256": "54f5de543b6d4c600b4536ea0fc4340b9550f6cc13914f17c77a185619944473"
+    },
+    {
+     "name": "post.json",
+     "size": 226,
+     "sha256": "e83f156ff8206e71e4e95d9c038d518ec9c9414c188a864bb261e1600afc30bf"
+    }
+   ]
+  },
+  {
    "name": "2026-11-23-1500-carousel-n57-money-mistakes-20s",
    "files": [
     {
@@ -2352,6 +2477,31 @@
      "name": "post.json",
      "size": 232,
      "sha256": "f7caeb200cc514ec17477036ad6abd193f519a1d33d607b4c3c4ba85959114d0"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-23-1805-reel-op90-mh054-dont-wait-to-feel-ready",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 229,
+     "sha256": "e3a285d620bef26ef780fcde15c39204ff721c5531d782b50d57a7e3a1f602d8"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 244633,
+     "sha256": "4a575eae80d89d6bc59d29b0e98a1d3ac2893c6910c2ceff519e37ebbeb01a9b"
+    },
+    {
+     "name": "op90-mh-054-v2.mp4",
+     "size": 6095699,
+     "sha256": "f66442d98a5b60c3ef73c2b31589b29a0e96d153f4f497c0c9c3e498baafbfbf"
+    },
+    {
+     "name": "post.json",
+     "size": 241,
+     "sha256": "7c0c723a253139ba53b5aec6e94f867475e10e1d7dc1f323a6ad3f1717c0dd34"
     }
    ]
   },
