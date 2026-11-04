@@ -1,0 +1,17 @@
+3 ways traders set stops, and what each one is really saying about your trade.
+
+01 Structure: beyond the level that proves you wrong. Long off support? The stop goes a little below it. If price gets there, the idea is broken.
+
+02 Volatility: based on how much price normally moves, often a multiple of average range (ATR). A wider stop means a smaller position size.
+
+03 Time: exit if the idea hasn't worked within the window you set up front. Dead money ties up focus and capital.
+
+None is perfect. Pick one and be consistent, so your results can actually be reviewed.
+
+And never widen a stop mid-trade. Moving it further away doesn't make you right. It just makes the loss bigger.
+
+Which stop do you use? Save this before your next trade.
+
+Education only, not financial advice. Trading involves risk of loss.
+
+#markethustle #themindbehindthemarket #riskmanagement #stoploss #tradingeducation #tradingpsychology #daytrading

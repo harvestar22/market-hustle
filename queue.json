@@ -2326,6 +2326,1501 @@
    ]
   },
   {
+   "name": "2026-11-25-1100-carousel-n62-after-11pm",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 155114,
+     "sha256": "66b7d7943723df696e27f775e97195a2fc27acb2f4ad0803d4d9e81af5b39bd3"
+    },
+    {
+     "name": "02.jpg",
+     "size": 153898,
+     "sha256": "639d525dd1b931643caadd06253d55faa25e773a003ae91e395c7d2c8b2e93c4"
+    },
+    {
+     "name": "03.jpg",
+     "size": 204777,
+     "sha256": "e4831661c155b032535e2633c7593829da6cdd8f7a119f9ce006a903a1763e59"
+    },
+    {
+     "name": "04.jpg",
+     "size": 190914,
+     "sha256": "7e42e3e3d80f7b15bba8ee69c41bd483fb8ad38f020c5e0f84bb8534a9b571fd"
+    },
+    {
+     "name": "05.jpg",
+     "size": 165637,
+     "sha256": "dd4fb70a6aabd80fcba4213cd25307effbe611d9b3b8849e4297253e8219e54e"
+    },
+    {
+     "name": "06.jpg",
+     "size": 182191,
+     "sha256": "2eea2b05cbc653b413338f0fc77d65cbedd9d8cff3358b5a359fda2621bf7597"
+    },
+    {
+     "name": "07.jpg",
+     "size": 192584,
+     "sha256": "2ca6ff8b72f8c24081e80036cc2a4d150c113d23dc06fa41bdd836f9e46c42bb"
+    },
+    {
+     "name": "caption.txt",
+     "size": 822,
+     "sha256": "c9860336e033878d6d60d78afa48f2f54cb2fcdb49b2bd635aa2bae50d316524"
+    },
+    {
+     "name": "post.json",
+     "size": 231,
+     "sha256": "ac12b6579e1c8a1790f3315022b3fdbf0e6c5b482d8e00132323a9180e1d20aa"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-25-1500-carousel-n63-energy-map",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 192362,
+     "sha256": "ebe8d57a568f2874ffff662264def7a404896be206f8b16ee4aae1490c222293"
+    },
+    {
+     "name": "02.jpg",
+     "size": 171187,
+     "sha256": "7075290cfe44a4d0d6c43bd70eaff5763f11fb07d08c99115f90a675c9743d4b"
+    },
+    {
+     "name": "03.jpg",
+     "size": 159175,
+     "sha256": "1299e415fecff8ee0d2255cf9dbabd00a270abd85468ea8b49a490425b6fdad9"
+    },
+    {
+     "name": "04.jpg",
+     "size": 164729,
+     "sha256": "f341bc062fa46314dfd25eae5e636b5926db7766740fb48a1fdc9b5ad03791fd"
+    },
+    {
+     "name": "05.jpg",
+     "size": 129798,
+     "sha256": "a2d6b453f2c23b24dea52b3ab1dab635b84d2ac4acdf6548735a40d8462603d0"
+    },
+    {
+     "name": "06.jpg",
+     "size": 191245,
+     "sha256": "3b1d6c19905da6b3cefb1b47b6e98012019f2ed4a7928acd37131e30e06b2bed"
+    },
+    {
+     "name": "07.jpg",
+     "size": 146896,
+     "sha256": "500c60200702e95e875a123170205b131b199dae1a5048349081057eed21167d"
+    },
+    {
+     "name": "caption.txt",
+     "size": 799,
+     "sha256": "296e40c9e8877ac2a5c26afd54b74ea31621811e11e90f55bcf4c89aa7c52680"
+    },
+    {
+     "name": "post.json",
+     "size": 229,
+     "sha256": "f123b40271deb646c8512fe71975e15f48a9c6c3ff0f0c720692534b1f047e3e"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-25-2000-carousel-n64-patience",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 140184,
+     "sha256": "66535001689ef36756f0fb70675fcd9c05a885145a0dddf31eaa5290d71566bf"
+    },
+    {
+     "name": "02.jpg",
+     "size": 176492,
+     "sha256": "01f4f55c2ac7ccc2ab8edd9ee797df285dd5c3ac8ba902b3d85244fa68c61ee4"
+    },
+    {
+     "name": "03.jpg",
+     "size": 152855,
+     "sha256": "3c9c01adbc61766a87a333ae3f5bf5079fee76c84ce17e6cefec9b2ec5897f86"
+    },
+    {
+     "name": "04.jpg",
+     "size": 217033,
+     "sha256": "30964c984e48569cdfac34e4faf7a5fa7485c5ccaa4e5015db5c9bf2700377d6"
+    },
+    {
+     "name": "05.jpg",
+     "size": 189091,
+     "sha256": "1be0b6edfd954db5023c5826c90754ee53f1c28797c49ffa02c30f248d64a404"
+    },
+    {
+     "name": "06.jpg",
+     "size": 148167,
+     "sha256": "c702ec6e9b9215dbc050bb9d5d2ec8e1c2febc84b08edcdbd5e41434a10533c3"
+    },
+    {
+     "name": "07.jpg",
+     "size": 168730,
+     "sha256": "bbcb4033f7e1698e01531b73cb302900094853d677525ebc679508b6aa88c31b"
+    },
+    {
+     "name": "caption.txt",
+     "size": 797,
+     "sha256": "9b297dc58ac7c01e25f0f135452432acb9eae9d25c8426fbc4d63503e93bcd1b"
+    },
+    {
+     "name": "post.json",
+     "size": 233,
+     "sha256": "97f50311c67237ffc21babe74c4588703ebe1b1d65a04213f0bdf562e2684d8e"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-26-1100-carousel-n65-ugly-middle",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 152217,
+     "sha256": "0b0b6a45e60e378c2ed9baaf660c7105b1813123e2a76c620a89fb5206e5c21d"
+    },
+    {
+     "name": "02.jpg",
+     "size": 175916,
+     "sha256": "001f4771c8608aa7df0ae8ae26e427c06d3d9214a6357386d07704d3293d0342"
+    },
+    {
+     "name": "03.jpg",
+     "size": 156357,
+     "sha256": "9e02b13b21b1f1c9d1b7912ebb3413e3e64ce5a26a18acf05f4d06d39f2d1bbf"
+    },
+    {
+     "name": "04.jpg",
+     "size": 201935,
+     "sha256": "66c32396ab8ec872676e857b1d70c69a52f224f909b2573fdf39b126c19a0891"
+    },
+    {
+     "name": "05.jpg",
+     "size": 169522,
+     "sha256": "9bbc5993a07ac239afb7ff1cc35880f843a42910d137f209688ae5946c057abf"
+    },
+    {
+     "name": "06.jpg",
+     "size": 197813,
+     "sha256": "5b41334161473a6cf057e2755f971fd995dbfd6ff5a89b0f235db3f9a49e9408"
+    },
+    {
+     "name": "07.jpg",
+     "size": 153626,
+     "sha256": "f6680117edd695e05df1981028af755e4f58221e75ed5e4062108dc60cd1d55e"
+    },
+    {
+     "name": "caption.txt",
+     "size": 856,
+     "sha256": "b2c8cc499f33dfd3078c7a28733025058e7a421c8971b0e5d3a217aabff709c6"
+    },
+    {
+     "name": "post.json",
+     "size": 245,
+     "sha256": "2189d3d0891e5cbd62ac69ad91cc99aff729613e7ce9a496012f7e007d4ccd43"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-26-1500-carousel-n66-say-no",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 181275,
+     "sha256": "b46e154de44e5e52fdc79a06ba247ce4c8494b6f2859a4faa6596835206d418b"
+    },
+    {
+     "name": "02.jpg",
+     "size": 141708,
+     "sha256": "ede60227a90570d94c0d2031f4102bb528e7b32155b55b938c3c4547ed33e6f5"
+    },
+    {
+     "name": "03.jpg",
+     "size": 177002,
+     "sha256": "760e6a9b50e3550551d44986d9a205d54d87a33c4575dca48c961893fd19e38f"
+    },
+    {
+     "name": "04.jpg",
+     "size": 164048,
+     "sha256": "54590c5cff186e429f8c4f851f744ff385401b9e1a57b13f9cb3b33e9ec9fad8"
+    },
+    {
+     "name": "05.jpg",
+     "size": 221297,
+     "sha256": "c917df8a0e4f653c5a56f1096ceedf09c7702d5935d1030cad348f6a872969df"
+    },
+    {
+     "name": "06.jpg",
+     "size": 167670,
+     "sha256": "8b0140db3b24643d1ea48e11572fa38cb1342a8adfb702b389e416896d9f0ba1"
+    },
+    {
+     "name": "07.jpg",
+     "size": 140608,
+     "sha256": "f686991cdea24c17f31dab76091d7d9054b37a6341ec7dc94598b4be2a6d84ca"
+    },
+    {
+     "name": "caption.txt",
+     "size": 823,
+     "sha256": "9efa517bc795ff7d3cbb04e02cb3ae5268f18971e1ff781d9f2ef8826fc4d874"
+    },
+    {
+     "name": "post.json",
+     "size": 225,
+     "sha256": "5739742e691cf92ce4fba25c77465c3214a8d4c6b8dbb3e7925c325b61ec35d3"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-26-2000-carousel-n67-nobody-watching",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 146352,
+     "sha256": "a8eae0dc31f69676cb481e41a5fe85f42143bb8a6061c64edf7dc06cde31e0f1"
+    },
+    {
+     "name": "02.jpg",
+     "size": 177641,
+     "sha256": "4eb65f4515cdf6ecd4d13fd7c6217f60286ddd21afc7120b51bcc68d1bc06e27"
+    },
+    {
+     "name": "03.jpg",
+     "size": 201667,
+     "sha256": "cfaf4451de818a58fbe0e86e29d010a750d7a2f58162ecfba4d26ee6a5fa9d39"
+    },
+    {
+     "name": "04.jpg",
+     "size": 198850,
+     "sha256": "57252d35eaf73b2dadcef9ca2caa4ebeb2700b1b68c9f5730a3f1f75735141a9"
+    },
+    {
+     "name": "05.jpg",
+     "size": 165819,
+     "sha256": "a0e55a7115334de0e327dbf631726e95e140c7d5dbbf0c46481d993aee3f806d"
+    },
+    {
+     "name": "06.jpg",
+     "size": 156982,
+     "sha256": "797e53af96db9ee3f6e900e3e0f3cc0e120d9ba689f3e4aaae1e54a1e1ee0af4"
+    },
+    {
+     "name": "07.jpg",
+     "size": 161107,
+     "sha256": "fb84a5c7d29bc56760a2f14d68d796b6b0c7eeebd7f0cdb6ae7d9de4bed2fbc2"
+    },
+    {
+     "name": "caption.txt",
+     "size": 816,
+     "sha256": "86ac3390f0b135611be2f220c520f5d9e3e0de9da639d77bc0f176025c337d12"
+    },
+    {
+     "name": "post.json",
+     "size": 233,
+     "sha256": "54c920f02e67b159d1a7072fa6ba1cabef38ad3d8a967cc94994b11f338725b9"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-27-1100-carousel-n68-blamed-the-market",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 197279,
+     "sha256": "aac27ac65a4fe2c19a0d1dd9d97bdc4d1f07b23e3421014a8caef191383433b9"
+    },
+    {
+     "name": "02.jpg",
+     "size": 150612,
+     "sha256": "3f45e2c2859ff4d1c05c4d0687e4fd6b317c3147d2abd8897a74bbd775a6a217"
+    },
+    {
+     "name": "03.jpg",
+     "size": 163907,
+     "sha256": "b756ffb91004d56c2069da40ca7340bbb6a9107326248b7c1b0c756b65cdfee9"
+    },
+    {
+     "name": "04.jpg",
+     "size": 168012,
+     "sha256": "4a7b892baa3af9202e180ddf0afaf05d6382afd8020a3bc7df8b640f84235998"
+    },
+    {
+     "name": "05.jpg",
+     "size": 206218,
+     "sha256": "15321c7125b6bb73509740e1612d5b882dbc45b36b06d4fdb7305fbe45a4b0ed"
+    },
+    {
+     "name": "06.jpg",
+     "size": 155392,
+     "sha256": "94d19024efd6b0d1ae0ae2cf481c184f538dbebcd92612706d74e047d57768c3"
+    },
+    {
+     "name": "07.jpg",
+     "size": 164824,
+     "sha256": "ba3d449be45de7c37e18402002e08e5d7230c529f25261ff291253fd0d28bdaa"
+    },
+    {
+     "name": "caption.txt",
+     "size": 842,
+     "sha256": "cb791ee426bed5c8898a96f7c04061a4064151e4eb4169be08c917336995e6dd"
+    },
+    {
+     "name": "post.json",
+     "size": 233,
+     "sha256": "ffb19ab52561a9712c98e438e3ccdf65c6d2b7f2dd72ccb200ae86dae3159d38"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-27-1500-carousel-n69-thirty-day-skill",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 194432,
+     "sha256": "32814f5c378d3355828c1a4d6337dca46e994fdf4506df299ae14615266464e7"
+    },
+    {
+     "name": "02.jpg",
+     "size": 184200,
+     "sha256": "1d6748d5b68d6a43d12066ce61c95bbaf5fc215ec239c45b522bbdad7c64ac54"
+    },
+    {
+     "name": "03.jpg",
+     "size": 176482,
+     "sha256": "523036302cf8d129cbb25ca32b0caa9c82b35563e2cd8e90c7f67180c49c8910"
+    },
+    {
+     "name": "04.jpg",
+     "size": 162891,
+     "sha256": "9c55a2dc9173b70062c3816671e1ec8eaeee0a3dd52ef973cc0c93a02c9321d0"
+    },
+    {
+     "name": "05.jpg",
+     "size": 142112,
+     "sha256": "16fcc73e5a8fb26dde1f3af077dbf480269f93e3ccd6394a62de780ea30294dc"
+    },
+    {
+     "name": "06.jpg",
+     "size": 203106,
+     "sha256": "457b70ea6686620575a76ed62736d81df13d135cb9d6453d6642aa41f3c2ab7b"
+    },
+    {
+     "name": "07.jpg",
+     "size": 195172,
+     "sha256": "83a97d8404ae6817585b0916f24ad0f1eb671800487d08db37302069242704e6"
+    },
+    {
+     "name": "caption.txt",
+     "size": 782,
+     "sha256": "7e0430d71cd3f9ad73a81fb69284215de8ee3d3fb630930fe01d32331702cdd9"
+    },
+    {
+     "name": "post.json",
+     "size": 235,
+     "sha256": "9548df594e86f867c4f10ae061f2fd6aa97c877c8605f25c0b88a001ba35fd81"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-27-2000-carousel-n70-long-games",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 154008,
+     "sha256": "8271a32178d2d544d30fb2aff6731edbea22d470ce8e139dcc7f0169fc0cf18e"
+    },
+    {
+     "name": "02.jpg",
+     "size": 151440,
+     "sha256": "95223cad651bdd69ecd1e420e8ba813b7663a119f4b8f5c69736831dda2868fc"
+    },
+    {
+     "name": "03.jpg",
+     "size": 155686,
+     "sha256": "efb44af412ee97eed75a08874e77a00e09edf839bba5e566bab5ff65613974ac"
+    },
+    {
+     "name": "04.jpg",
+     "size": 199529,
+     "sha256": "3dccdd422abfb06b7db0cd805125ade91cc90d515dcd25d498ad14cf85ac4aea"
+    },
+    {
+     "name": "05.jpg",
+     "size": 172469,
+     "sha256": "6aa8ef209749afc1fa6e44b844fcc1ddc7b40f2cb3a7f028b33ea993f53a2a56"
+    },
+    {
+     "name": "06.jpg",
+     "size": 155455,
+     "sha256": "ce8bc0f5701305692333700741ce6a69f0dee5670c6e201d4c0926409e9826ae"
+    },
+    {
+     "name": "07.jpg",
+     "size": 162320,
+     "sha256": "c8c01effb6c4ff0ca541e12203218f99abaf12d620132c729172b7684e848903"
+    },
+    {
+     "name": "caption.txt",
+     "size": 754,
+     "sha256": "db80da0c1ae48fa0552d18c0c5c6617d5572973fd261a57664595d704975a2c5"
+    },
+    {
+     "name": "post.json",
+     "size": 224,
+     "sha256": "ac16cfe4152a82c1ece412c172ce4b99998addb7bf55ac7cce3cea0e0045089c"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-28-1100-carousel-n71-money-growing-up",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 170171,
+     "sha256": "f4dd889bd784cba9ff247c95cccfe0a9698c27efb5bf6e037aa5e2138add45db"
+    },
+    {
+     "name": "02.jpg",
+     "size": 196750,
+     "sha256": "92b1188b359c2521639125074a2c737134f44b45ccf0bf371a3f0ba9c2ca2707"
+    },
+    {
+     "name": "03.jpg",
+     "size": 167496,
+     "sha256": "4faff706969c8647f0d2901dd0334b28dde472111231c89fb472d2a4431b4dbf"
+    },
+    {
+     "name": "04.jpg",
+     "size": 196172,
+     "sha256": "09d2545ed95c86ccc5a1a50ddb16f1665e555550db36a9efe9e8b6fb3f0680d7"
+    },
+    {
+     "name": "05.jpg",
+     "size": 206058,
+     "sha256": "ce6e3dc5a94ccb764f88ece6d69b413e7a40fd2b7501e0b59207f96aca5e653f"
+    },
+    {
+     "name": "06.jpg",
+     "size": 176480,
+     "sha256": "abedb33068e4d76b48dc2bdd81b63e7d9fbe7a2fb4543ce5ec3b2fb551d625f6"
+    },
+    {
+     "name": "07.jpg",
+     "size": 169907,
+     "sha256": "7e499c41294ff95fbc7628676f410ea78f4266bd15e3a3f3429e54cc9b8a1559"
+    },
+    {
+     "name": "caption.txt",
+     "size": 886,
+     "sha256": "a71c279488f5f70a46429dd89fb00845f8a1eaec4ae314666cc780b18a6bbf7d"
+    },
+    {
+     "name": "post.json",
+     "size": 253,
+     "sha256": "dbc32b34dbccde3170b87cd4e4654959323fa9333599fbd762415e4ad42cf74a"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-28-1500-carousel-n72-size-a-trade",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 174026,
+     "sha256": "0f5daf0f88438fcb51fb9dd9289444128827677e3fdeac6aeb9470d41174321e"
+    },
+    {
+     "name": "02.jpg",
+     "size": 170427,
+     "sha256": "6f7ef55c06ffe11f45a1388360ea28a877600670c80e5eb7842971e1e1c3f084"
+    },
+    {
+     "name": "03.jpg",
+     "size": 155544,
+     "sha256": "9aeedfb4dce3d29e1fa33ebcdad30ffd90af892b917b7492a0d0b7e240b9c514"
+    },
+    {
+     "name": "04.jpg",
+     "size": 215763,
+     "sha256": "d01b0216914cf5062355180875c43d4720d6f9d037b9eb7af63a8dc3f81244bc"
+    },
+    {
+     "name": "05.jpg",
+     "size": 209853,
+     "sha256": "2e9d1e87f0d2b94cce82c44f6f171a38d3e528a5845d7f8c16a89e6df7e654a7"
+    },
+    {
+     "name": "06.jpg",
+     "size": 159365,
+     "sha256": "934614a99cbdb5ba92f4fde5f9d7df2daa0c8f0913ac96cad878efbc77f6c182"
+    },
+    {
+     "name": "07.jpg",
+     "size": 152994,
+     "sha256": "b8331865788b8ddc7c27f298801c7d67bb0a5e72bf1ce74da5c95ac76cd2f768"
+    },
+    {
+     "name": "caption.txt",
+     "size": 862,
+     "sha256": "a79d50c353b54a10a8b12f0fc5b2867587a4d42acadea11adcd12320df21d4f2"
+    },
+    {
+     "name": "post.json",
+     "size": 217,
+     "sha256": "52c0e637f5f9c02d1e9061a5e3b6edd4376a453d45c936341491e23ca382726f"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-28-2000-carousel-n73-rituals",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 127069,
+     "sha256": "cf5ba524bd1f7d2f3e34b48d3eb0ab79e9260e0c69166632387dc9d9954c0b51"
+    },
+    {
+     "name": "02.jpg",
+     "size": 168557,
+     "sha256": "2875a73bb66b9bf53c8237b297e73d4294af684021eada745391fa91f4316ffd"
+    },
+    {
+     "name": "03.jpg",
+     "size": 204605,
+     "sha256": "8532123d032ebf9ec6a78899ceccc5a0fb417eab590f98a74efd0b5fdd255f2e"
+    },
+    {
+     "name": "04.jpg",
+     "size": 179746,
+     "sha256": "02071e411f791451a19fec942683b98ddee81136db2aa93a8d2694e8dddb2384"
+    },
+    {
+     "name": "05.jpg",
+     "size": 207775,
+     "sha256": "6a2f0dc1c3003c125ae46c7ae76d89be5362f9411248b7c7c844132174d8ca0f"
+    },
+    {
+     "name": "06.jpg",
+     "size": 172840,
+     "sha256": "ddca7e22b3682e3ac2786beea359ed9d5d155f7f2378b3bd8d45a8989d06028d"
+    },
+    {
+     "name": "07.jpg",
+     "size": 136666,
+     "sha256": "db3a4b6fc3bf11dbe713fcd67717d9b4e1bc20977e787f28a116aeaf40cc0080"
+    },
+    {
+     "name": "caption.txt",
+     "size": 801,
+     "sha256": "4aa34bc8c46b05d0de898e07ee35ebee9afef2c740c206755361c99741f5eab8"
+    },
+    {
+     "name": "post.json",
+     "size": 210,
+     "sha256": "7cc628bc3d64727e45b8b643c6a0e1847545a98fab112d16cddb8a566aed069b"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-29-1100-carousel-n74-small-leaks",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 210500,
+     "sha256": "b635b0d1a0f1ed006060a5fe8f485945324e30ddd73fb7c1528935eb34eb58b9"
+    },
+    {
+     "name": "02.jpg",
+     "size": 235242,
+     "sha256": "2fb18735fe2f520d7b637a07942514f15cc5db9246f5fc780c1e58b53056e3dc"
+    },
+    {
+     "name": "03.jpg",
+     "size": 174997,
+     "sha256": "78fc9384f2b34b0cbd9cde6a3b2b1cae71b194020451db59ddc1835d316b5852"
+    },
+    {
+     "name": "04.jpg",
+     "size": 205571,
+     "sha256": "ebb244be993f414b48f10dd9f526b0cd176ea74aef88403f3508f3fbf8e6b44a"
+    },
+    {
+     "name": "05.jpg",
+     "size": 163399,
+     "sha256": "9e39ce669a22033dcc26ee3a8027e944954f2e64d6053ad6a24cef953b7968c5"
+    },
+    {
+     "name": "06.jpg",
+     "size": 155184,
+     "sha256": "7bff3957d8c440761069bd696503b9a8fc1fd80ff7601d3446b48a1fd581056f"
+    },
+    {
+     "name": "07.jpg",
+     "size": 139236,
+     "sha256": "73e7d700dfe1172cc356062bcd39f0ebe31c607e2f567866f7534d804fe289e4"
+    },
+    {
+     "name": "caption.txt",
+     "size": 759,
+     "sha256": "7887f091bee56628fd5c1f2ea7885b2633ed5fa430b11699af9a59871896edf9"
+    },
+    {
+     "name": "post.json",
+     "size": 253,
+     "sha256": "e75c2d92e7cb6154861fe6dcb47506aa08247f2c186556d1c5f796652650fea3"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-29-1500-carousel-n75-rules-card",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 165993,
+     "sha256": "c6bf87f61ef52dee5472bf33d07811e683d4cdeef6d8ddb67b48e6915df90826"
+    },
+    {
+     "name": "02.jpg",
+     "size": 137939,
+     "sha256": "477c6a62e0d260e8e41ef17388947041aa0517cdc11e0c5e4dffabdf41054b71"
+    },
+    {
+     "name": "03.jpg",
+     "size": 149505,
+     "sha256": "9da74c55e45242daa40b27fd28183d5ef0f0855392a80fdcf97309cabd19d98e"
+    },
+    {
+     "name": "04.jpg",
+     "size": 137151,
+     "sha256": "38fde457e236582253d54048aea8b8f894d6dcfdbf8c7b72132ed510941e4ca6"
+    },
+    {
+     "name": "05.jpg",
+     "size": 140124,
+     "sha256": "c4c80a719f238462fa25ebca42678bad559c6c54decb12c814bfdf1f3c919ea3"
+    },
+    {
+     "name": "06.jpg",
+     "size": 139746,
+     "sha256": "e2053cdbb13ef714a1bc4eba8e4303d15b1bf7dd0ad9d896e2453b12c0912efe"
+    },
+    {
+     "name": "07.jpg",
+     "size": 161039,
+     "sha256": "4f49615ce7fcccf86f22235d8a28ec97a8d75446bd5b85507af5e47cf0776518"
+    },
+    {
+     "name": "08.jpg",
+     "size": 179242,
+     "sha256": "c1ee8229f9531fbc3f6e17ff4c4e393d7cbaea8b48238f2013d58a98302fc38f"
+    },
+    {
+     "name": "caption.txt",
+     "size": 876,
+     "sha256": "044cbebe7f9bd550cde10b4f04e9abcb8a4bf629a244bbe8acb58871b6ba42a5"
+    },
+    {
+     "name": "post.json",
+     "size": 236,
+     "sha256": "2f1e22850ba698c13cf109d93dbbbe6317a3d38384c3c7951f7de0a95a6c9ab3"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-29-2000-carousel-n76-boring-right-places",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 178954,
+     "sha256": "6ca09aa1decb0072519efb52c3c0f575c1adea43cdfd8ef9571a6df0f36d1f8a"
+    },
+    {
+     "name": "02.jpg",
+     "size": 168452,
+     "sha256": "2f97fcabe691ad7af41646a6238b57586c1a9e09d452246dfd4894c65d55f195"
+    },
+    {
+     "name": "03.jpg",
+     "size": 167272,
+     "sha256": "5c180797bbd36d87feb41ff4ea02926cddb5c5e00f4613251191be3476cf6ac5"
+    },
+    {
+     "name": "04.jpg",
+     "size": 200447,
+     "sha256": "3a65f947e9c8f6ffaccb0b0759c52d6fe204436c0ec60fa947161063ba15d9cb"
+    },
+    {
+     "name": "05.jpg",
+     "size": 184253,
+     "sha256": "d7be3f248f0f3d7562e2fcd07de93a1fd35f46e1d2ce4f550aaaaf2f3a6830bc"
+    },
+    {
+     "name": "06.jpg",
+     "size": 165942,
+     "sha256": "6ea1fbda7940dabc3794c0f8f7975c62fa01e9352fb4ef38626d117f90759527"
+    },
+    {
+     "name": "caption.txt",
+     "size": 755,
+     "sha256": "aba3a0e97332fb6a27c26d4b2fb2268d25186a274963af9d3f6a18d4ba7e37c9"
+    },
+    {
+     "name": "post.json",
+     "size": 220,
+     "sha256": "6525460bb03ef6fed71b55872a24fd4f1d188d90693a95babcffa88b4c73d494"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-30-1100-carousel-n77-motivation-videos",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 164730,
+     "sha256": "4ee4a695a2ebcd8fe9785268e94d97ac3d1c91faee2ed934939b243a2c2ddc22"
+    },
+    {
+     "name": "02.jpg",
+     "size": 167516,
+     "sha256": "6038b29c31c23c2ceca8b262ef0aa5e911970477480e067a1336a180cf8a3ba5"
+    },
+    {
+     "name": "03.jpg",
+     "size": 184750,
+     "sha256": "4c229a6fac2785c2be641fdabb7823b061307e4471eb1a58a9790981f006e2b4"
+    },
+    {
+     "name": "04.jpg",
+     "size": 211021,
+     "sha256": "2b09db9578a6b4527b647a0f7bc8383d0cd9fe237646393037e47a115e1b243e"
+    },
+    {
+     "name": "05.jpg",
+     "size": 168826,
+     "sha256": "1a7d80a69a86d102a016802a5dd29fab1b4dd01b8aeb9053b4aca518b5737387"
+    },
+    {
+     "name": "06.jpg",
+     "size": 151205,
+     "sha256": "bad57e7348a0818034dcabc6033ccb6905f5e4e5a1efb348f04cb1930189bf06"
+    },
+    {
+     "name": "07.jpg",
+     "size": 158125,
+     "sha256": "27a522f2d008b191fde851b2d1e75d48cf36e28f82e8ebf299b0d5def4fdac1b"
+    },
+    {
+     "name": "caption.txt",
+     "size": 847,
+     "sha256": "2201e722f0b33f15063a3eb66e50ff844e58fc4f7d48a0c50febd14780861e06"
+    },
+    {
+     "name": "post.json",
+     "size": 245,
+     "sha256": "70fa09f8a3e808882f117a433455fedc78492aa45d001b322949e8ddc071375b"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-30-1500-carousel-n78-deep-work-block",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 193338,
+     "sha256": "8a4bad8382ce4d0b382332796060bc067495445b80764ac533d69b4e249e256e"
+    },
+    {
+     "name": "02.jpg",
+     "size": 192803,
+     "sha256": "e7fb50ea9addc7930f5582bc0961d34a879e5b01a03ccc4061b2742ed28d9241"
+    },
+    {
+     "name": "03.jpg",
+     "size": 145294,
+     "sha256": "adafd5a6c915adcf5a5c24153596236070057670bc6c4e5c90b9d740a6c1345c"
+    },
+    {
+     "name": "04.jpg",
+     "size": 146563,
+     "sha256": "e36e317c28ed0f8d2c15d4ec290fbfee69e1746a2471f35052d800dffdc63583"
+    },
+    {
+     "name": "05.jpg",
+     "size": 154941,
+     "sha256": "8e1af10cfeb3e1c678f1983813484412981c464917b09bbe26c3f30fbcf273a9"
+    },
+    {
+     "name": "06.jpg",
+     "size": 189138,
+     "sha256": "58ebc1653801ef605285b4669ae5145a0b3f0182f4575972474e54f6142688a9"
+    },
+    {
+     "name": "07.jpg",
+     "size": 164125,
+     "sha256": "6a6e75e5b7066f869c96e7ea100d390a1d55c53591bc152f0d5aa46e0f20ed0d"
+    },
+    {
+     "name": "caption.txt",
+     "size": 762,
+     "sha256": "1399c917ac2e95f6cc7689b21a14031ed8ca57254172f16d0316c7a92bf40c3a"
+    },
+    {
+     "name": "post.json",
+     "size": 221,
+     "sha256": "ded497e42232bfaab2254ef9114f0c5cc397541f24e6f61f28032a3f02e7f132"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-30-2000-carousel-n79-unmeasured-risk",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 146575,
+     "sha256": "4b2819eb8ddd65621d7d124e015cef74e064268955a495908d14f8c759390532"
+    },
+    {
+     "name": "02.jpg",
+     "size": 154716,
+     "sha256": "49c6ff8bb99aef5516259286b71673c7a7adda4473c03615b411511070e2b77e"
+    },
+    {
+     "name": "03.jpg",
+     "size": 177068,
+     "sha256": "2d30ad6fe8f6b9c61753d84ed8b37eb4f971750504451abf951da0faa72619c9"
+    },
+    {
+     "name": "04.jpg",
+     "size": 165394,
+     "sha256": "99854230b97877ed1ceb7e83d9c9f00d2ab151f56799e40ff5d00baccdbc4278"
+    },
+    {
+     "name": "05.jpg",
+     "size": 219957,
+     "sha256": "b848b4b7311683b57513662c96b748363e1210d80d9173e65f6e1317ded9a99a"
+    },
+    {
+     "name": "06.jpg",
+     "size": 166287,
+     "sha256": "bd135abc12668a58ad1ea2d35df647eb18fe89b291804e8dd42ea2cee7a06a02"
+    },
+    {
+     "name": "07.jpg",
+     "size": 164301,
+     "sha256": "f285386437e2d6e12392e3a46399cee80deac032210e57c9682cceaf7e303441"
+    },
+    {
+     "name": "caption.txt",
+     "size": 829,
+     "sha256": "aa081ae5b2f5689752fdb7d4d291a1e575a4abafd195faf90dac0e9ead5d083e"
+    },
+    {
+     "name": "post.json",
+     "size": 227,
+     "sha256": "837c09b60de7dbc5adba3a93a43265323ed6bc236b05ce3a45f70cc667a1446b"
+    }
+   ]
+  },
+  {
+   "name": "2026-12-01-1100-carousel-n80-first-loss",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 154281,
+     "sha256": "f5a1107a07d0ec94eafd258d091c16afe990cfabfc84e97f1414d8fddda3b500"
+    },
+    {
+     "name": "02.jpg",
+     "size": 148516,
+     "sha256": "efb4a888f90becf992c16cf6d86a6efe2b2a46aadd0b13a9a3c5d1c61c4c6937"
+    },
+    {
+     "name": "03.jpg",
+     "size": 158939,
+     "sha256": "495274acdd9d2e38b0e24a662c3c76399ce76f611af88eb1c108ddf64778ad3a"
+    },
+    {
+     "name": "04.jpg",
+     "size": 197419,
+     "sha256": "a6ed4f3612b4e4cdaf7bd4e67f4e42f72cab37dcfccd8a096e2e0c67fb4b2f06"
+    },
+    {
+     "name": "05.jpg",
+     "size": 197206,
+     "sha256": "70736d354fbeae75edd5437b14f1f1ebc96934f165033588896553a5c7a1f721"
+    },
+    {
+     "name": "06.jpg",
+     "size": 195246,
+     "sha256": "8faae0da0062531218f8290717ad6c26d474ce125f0e410b38fce728a2776eff"
+    },
+    {
+     "name": "07.jpg",
+     "size": 165723,
+     "sha256": "9ffaee3e23e04dd33905b5af224affa7c7c3c88f392a0c5652a40e1389fa76ec"
+    },
+    {
+     "name": "caption.txt",
+     "size": 856,
+     "sha256": "f8e2645b3a5d56556525e0ea3d016c203158ca0527b130ed1f44a4ffe752f642"
+    },
+    {
+     "name": "post.json",
+     "size": 231,
+     "sha256": "0ad16ebe5780a6e2272eca67e33c485c59eaef8bd0ca1ae0c293e196ce43d155"
+    }
+   ]
+  },
+  {
+   "name": "2026-12-01-1500-carousel-n81-debt-snowball-avalanche",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 192331,
+     "sha256": "e78c2cda234a2695a7b7b1579dea56c6899fae806e5271c69f1046c9c4340944"
+    },
+    {
+     "name": "02.jpg",
+     "size": 189131,
+     "sha256": "1dd09f8bcbf59bbfe43d63842364adb9956947b6383df73c1268e84c439ba92b"
+    },
+    {
+     "name": "03.jpg",
+     "size": 191954,
+     "sha256": "45dea0658bccee6b8b7d7e3f249e7a2e8458594c83abf97287a50532544443dd"
+    },
+    {
+     "name": "04.jpg",
+     "size": 209948,
+     "sha256": "e767984bd6a9a9fc563db6d1eb52e746a2c3050e9f4ec0050f592abf48defd83"
+    },
+    {
+     "name": "05.jpg",
+     "size": 165672,
+     "sha256": "700fac683c0a71bbb322977202d440bff21573185e1ab2106c31898543d263ba"
+    },
+    {
+     "name": "06.jpg",
+     "size": 174079,
+     "sha256": "a2c18897dd75e54d6ed0fbd20e4523b55ed9adf0c2da52be9b648dd60c23a6f5"
+    },
+    {
+     "name": "07.jpg",
+     "size": 161017,
+     "sha256": "dd25bc1eff85747f75dcb1ac0fa6c4d6acc5f899dbffb63a3513d725b3990336"
+    },
+    {
+     "name": "caption.txt",
+     "size": 722,
+     "sha256": "653cefc913c00f63e42939a70a6ab73cb110b81867613061ea7f06630bf08782"
+    },
+    {
+     "name": "post.json",
+     "size": 241,
+     "sha256": "9d5810b80f5ce104dbe0c85ad054a4f7bfaf18041fc772ccd414926823af6211"
+    }
+   ]
+  },
+  {
+   "name": "2026-12-01-2000-carousel-n82-letter-future-you",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 139871,
+     "sha256": "9e770489dbbb073e180f1d9fde639edcb18b0052e50b2072742b94c7b708cd7c"
+    },
+    {
+     "name": "02.jpg",
+     "size": 161299,
+     "sha256": "ac28a38f4b8a8c347b08b40f10d642b20117da41ca93dbc74bbcb7973f1d1cf9"
+    },
+    {
+     "name": "03.jpg",
+     "size": 166008,
+     "sha256": "691db8b48183057b8c92658c0d7f91055cef5d2ea4467a232fd7371f07b11c35"
+    },
+    {
+     "name": "04.jpg",
+     "size": 175002,
+     "sha256": "1cb952e034cb0465c57c68f6f19682c71e51297770c2a27638493222a694dbc2"
+    },
+    {
+     "name": "05.jpg",
+     "size": 157678,
+     "sha256": "343cb97a85580a7ab606e719304519714b4a3567bd0f68fd99a6a857bbe070cc"
+    },
+    {
+     "name": "06.jpg",
+     "size": 160853,
+     "sha256": "6625dea13ef4d35a043f65076a5ccab3ccc799fdf8fa5d7ee39dddb361dd17a3"
+    },
+    {
+     "name": "07.jpg",
+     "size": 132521,
+     "sha256": "c77b74c9c6b3faeef9936467d243904cc6caedef651a176cc3c32128873be605"
+    },
+    {
+     "name": "caption.txt",
+     "size": 651,
+     "sha256": "a9b5724548291bc3706faf8f659288116ed435a55c6988e62c74769b66617e67"
+    },
+    {
+     "name": "post.json",
+     "size": 223,
+     "sha256": "b8a249cad77ad3e5f4910031f9f646d807b6b03c8affd965d51bf41bd7b6e67c"
+    }
+   ]
+  },
+  {
+   "name": "2026-12-02-1100-carousel-n83-burnout-pace",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 171071,
+     "sha256": "b2bdc383f2bdef6af34b7bdfbcc186e491e10da91f6d8209e4e3f3ee6c05160b"
+    },
+    {
+     "name": "02.jpg",
+     "size": 200156,
+     "sha256": "3a3ee6fdd955c25d7552b8d6a72fc21364df26ae6fae06bb33881517847230ca"
+    },
+    {
+     "name": "03.jpg",
+     "size": 202627,
+     "sha256": "f73ce6ecc9f39cf0440ce3a39a6fde73990ee15ea6db6cadf094db3a3f66aa33"
+    },
+    {
+     "name": "04.jpg",
+     "size": 176514,
+     "sha256": "d27b29a382e975052eaa30ee66df3cf0c53e2a50dec50ce51c3f943c235b8bf0"
+    },
+    {
+     "name": "05.jpg",
+     "size": 206436,
+     "sha256": "d784803a19036000da2510b0538d72ef08e821cdf35701ecd5ea3a07e1edc4a7"
+    },
+    {
+     "name": "06.jpg",
+     "size": 169114,
+     "sha256": "93890712c127a8d78e14ba46ff5827f869e598658dcef3347564e643cf1d71ec"
+    },
+    {
+     "name": "07.jpg",
+     "size": 128600,
+     "sha256": "3c916018c7c8a801053f54ccd81145eb5899cedcb23ad6b23b529cbcfb9d2ea3"
+    },
+    {
+     "name": "caption.txt",
+     "size": 719,
+     "sha256": "0d96403a70825d8594be43d8ee0da91c1c1af12238864d062a9efe692b657ae6"
+    },
+    {
+     "name": "post.json",
+     "size": 236,
+     "sha256": "c71549443588366f688f6ea20432828b4d6b8897c8e13657ad670da3176c2858"
+    }
+   ]
+  },
+  {
+   "name": "2026-12-02-1500-carousel-n84-three-stop-types",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 147212,
+     "sha256": "52824b6d84ad442205ddcc737ad1997c5f8fa34b0371ee630eb8becc7fd960db"
+    },
+    {
+     "name": "02.jpg",
+     "size": 172095,
+     "sha256": "b05456def5db19b4db77c77e8102e95f3df61ef6d6b20ac0b211ca11d24a2299"
+    },
+    {
+     "name": "03.jpg",
+     "size": 213710,
+     "sha256": "5d41118f4f3c76fe7730362a08d9bcf31be9021477b998b255e07558320c2b80"
+    },
+    {
+     "name": "04.jpg",
+     "size": 173107,
+     "sha256": "19b354173bae2189e7acf60ae196c0dc560e8e04268e9f9ead19ca3ac6105e1a"
+    },
+    {
+     "name": "05.jpg",
+     "size": 202945,
+     "sha256": "e1dc26b404c1ede7088eb0b1bde0c5a57ba785100f1afc31eb56a127ae6e0b27"
+    },
+    {
+     "name": "06.jpg",
+     "size": 167373,
+     "sha256": "f9a891a83b317d7ee8cb82e1e147c29a31f1ad78a79dd38424f4c2d6fa83cff4"
+    },
+    {
+     "name": "07.jpg",
+     "size": 152718,
+     "sha256": "6ac15df7f786ab96b3151adf3652fc3117b2aa9e9b3621ee0fae0ea059fec3d6"
+    },
+    {
+     "name": "caption.txt",
+     "size": 924,
+     "sha256": "6851b9c2208201c0645cdab94461a4026b841a4b3ddc2f56dfcbc13d97d3eed1"
+    },
+    {
+     "name": "post.json",
+     "size": 233,
+     "sha256": "77f3d05c55ffe3ba449edc87e1c2541bcfe9cf72ede07fc347eaeb9f75ef53d5"
+    }
+   ]
+  },
+  {
+   "name": "2026-12-02-2000-carousel-n85-hour-after-loss",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 170629,
+     "sha256": "5d1d4ac7c3a926fec8f518d2a91b4869e6d12a026fb54600875ca257ab35014d"
+    },
+    {
+     "name": "02.jpg",
+     "size": 132242,
+     "sha256": "c8ab1d2259fd3274f3792ef7f60b1b1a005e2947bc05c4874e1cc7c4caeb832b"
+    },
+    {
+     "name": "03.jpg",
+     "size": 170500,
+     "sha256": "bf174b30691045a779aeba7b00cbc0843a0e1e14572a4b640fa6d4d56e7348e8"
+    },
+    {
+     "name": "04.jpg",
+     "size": 156538,
+     "sha256": "3dae34d5e2c7db2f87e39531dc0cee612c3098363e8d9cb3d44b46bc5efdfbe9"
+    },
+    {
+     "name": "05.jpg",
+     "size": 177248,
+     "sha256": "c361d78cb35c432ba1c7995c21e92934508ebffe4e73e92dc183f9d33aefd70e"
+    },
+    {
+     "name": "06.jpg",
+     "size": 168623,
+     "sha256": "0182ec07986471387b4ada70b91021bfc2346d3fd23524bb11ba396fe423ff3e"
+    },
+    {
+     "name": "07.jpg",
+     "size": 151593,
+     "sha256": "358118aaadd89534dff80b34b7d67da4f668fdaa8d6821dd94c32ec1090cf33c"
+    },
+    {
+     "name": "caption.txt",
+     "size": 868,
+     "sha256": "489643ca3e43ec0b01f1402825256bb762d296cc2c6a350952a37d40288a7283"
+    },
+    {
+     "name": "post.json",
+     "size": 235,
+     "sha256": "4a369a0851a662acb59fb2ee3aa66f5ebea00a11509e94000deb326219e5e263"
+    }
+   ]
+  },
+  {
+   "name": "2026-12-03-1100-carousel-n86-launch-small",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 194487,
+     "sha256": "4769c3a008292fb14034d3a3f5835b30604ca9cdae314854549b85d2f914b0ab"
+    },
+    {
+     "name": "02.jpg",
+     "size": 182071,
+     "sha256": "749c5b44c72b31b16ff6bde6dbc84d148bf67cf8284bb90a462b096a7861d463"
+    },
+    {
+     "name": "03.jpg",
+     "size": 167774,
+     "sha256": "df043e3230f8f5a03b649a0918d6e584cb2568ecacd376d43bdd5463d9c32383"
+    },
+    {
+     "name": "04.jpg",
+     "size": 185120,
+     "sha256": "fa06ad9bd3d77100d6397ea0e08d417010fed36b9a5ac8cfcd4c54935bb43510"
+    },
+    {
+     "name": "05.jpg",
+     "size": 204188,
+     "sha256": "3563c2908bb55dfada32e7736d77686483c9085bf0b4b3a3046224e76208e29f"
+    },
+    {
+     "name": "06.jpg",
+     "size": 143233,
+     "sha256": "53abaeee1c15402f56092a8a7d286aced43a64aafbc8f85fb2826b24a3b7c7c6"
+    },
+    {
+     "name": "07.jpg",
+     "size": 131967,
+     "sha256": "77046cf7596d6aeffba387b7d3e41d456900fa241b21c7e251053a2461aaec09"
+    },
+    {
+     "name": "caption.txt",
+     "size": 790,
+     "sha256": "d7af8fb435a51da46ecccfdad8969e6597cecbd09219aa1ba2414f78f03cfa86"
+    },
+    {
+     "name": "post.json",
+     "size": 242,
+     "sha256": "96be132cb48566784f9a5f46d649831736bfad7005645417de28dc99d2ba7519"
+    }
+   ]
+  },
+  {
+   "name": "2026-12-03-1500-carousel-n87-mental-models",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 165904,
+     "sha256": "68801b89f926c1405d713faa6d80c8b5ec02f63769e37d5e275c24221c78b61c"
+    },
+    {
+     "name": "02.jpg",
+     "size": 174633,
+     "sha256": "e092f82bfd43491b7b26ea1fcbbc622be3a08063e4cbebdfdfc5f1c31104bcbc"
+    },
+    {
+     "name": "03.jpg",
+     "size": 172742,
+     "sha256": "0dd4a742a0fbd5417858983858fdd8c86f1bb3c472160feb6d9d6af9cf636492"
+    },
+    {
+     "name": "04.jpg",
+     "size": 151030,
+     "sha256": "6588c41dcfc5ebf3f14ced2c344edde52e3457941f30d341d65c50aced7e2547"
+    },
+    {
+     "name": "05.jpg",
+     "size": 202798,
+     "sha256": "51a7769c7d192bcf12459befdded4cc26b7d92fe9737190f14db785eef60cc13"
+    },
+    {
+     "name": "06.jpg",
+     "size": 157144,
+     "sha256": "1118bec8016f4aed0135b792eb580e31d2fee591dba0335e00059ab84bf64ffd"
+    },
+    {
+     "name": "caption.txt",
+     "size": 718,
+     "sha256": "b31bc42f02f91494f80b0f9d2ae31c4a82e507ac3b4ad2365dde0e36ca7b3dec"
+    },
+    {
+     "name": "post.json",
+     "size": 230,
+     "sha256": "f51ef78e7aec8d30d84f8788e83ab61610f800dd7e1985084a509a404f2c88c8"
+    }
+   ]
+  },
+  {
+   "name": "2026-12-03-2000-carousel-n88-know-your-enough",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 138562,
+     "sha256": "4a4f4796608f5afe0432d60faad2d5c93119a03d157242f36765239f4f37eb1e"
+    },
+    {
+     "name": "02.jpg",
+     "size": 164227,
+     "sha256": "7f36bb46e0bb4c4b198ee4b3ee31ab2037208925f3655dc3498b80a134d2b7c1"
+    },
+    {
+     "name": "03.jpg",
+     "size": 155243,
+     "sha256": "bc702e62876a940e35d9f581e9500fb9500e93eae4b33af94789f1cc9267a00f"
+    },
+    {
+     "name": "04.jpg",
+     "size": 174131,
+     "sha256": "19b7d6ba7808b977b9011b3ee9b39639a7ba349ed2adb1e6a597fbcb65b5b4f5"
+    },
+    {
+     "name": "05.jpg",
+     "size": 154736,
+     "sha256": "9ad004704e720721d35c370dd005b5ea9815f2a5fcd01e8e8303415d6f1aeb55"
+    },
+    {
+     "name": "06.jpg",
+     "size": 159684,
+     "sha256": "9d6d82a07daa514eb0aa7d9a13b8cadfcfe917eaac6341183b9abf810108cc7b"
+    },
+    {
+     "name": "07.jpg",
+     "size": 134395,
+     "sha256": "36bc0131053f132773c6a1571e3176373874bc21e28b9d0e87d174292c2ae83c"
+    },
+    {
+     "name": "caption.txt",
+     "size": 790,
+     "sha256": "175ff6bc7e18881c5ca517a6b4ae0bd638b5b9f2a3ad529613c435dd6afd9431"
+    },
+    {
+     "name": "post.json",
+     "size": 233,
+     "sha256": "518113404d3726e4f492c74b99ee69062977a01dc5129d4f16030e1ff7a8c3a0"
+    }
+   ]
+  },
+  {
+   "name": "2026-12-04-1100-carousel-n89-forced-trade",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 178831,
+     "sha256": "ba96155b63628bbd76fd88c5b30d04b22ad9af010267bec0bfb3002d64a9de90"
+    },
+    {
+     "name": "02.jpg",
+     "size": 166401,
+     "sha256": "83475ba85b050ffcf590ea82af32738e0a3e259ea09ab6f57e7cf624cff365d2"
+    },
+    {
+     "name": "03.jpg",
+     "size": 151593,
+     "sha256": "a366cb1888b806e6a1ef0f69025c46bc755775496e655e9b7eae93b1d40fc29d"
+    },
+    {
+     "name": "04.jpg",
+     "size": 174151,
+     "sha256": "4fde5162d5534d7862c2dde00e438779eddc5b0860e86d1a0b439c088ea97ed7"
+    },
+    {
+     "name": "05.jpg",
+     "size": 187455,
+     "sha256": "edf0e540817ccb13e995ac672c7a73a3024b6d848b9342837a0c913f9b1dc051"
+    },
+    {
+     "name": "06.jpg",
+     "size": 171931,
+     "sha256": "9abc3189d8c16e3214deaf12762a1d205f1399584d458f1e8da2e0ee624a199c"
+    },
+    {
+     "name": "07.jpg",
+     "size": 167922,
+     "sha256": "5cdda5b47a58050382e8b751973cfcf2f56b64d315269003a0614c23f150df9c"
+    },
+    {
+     "name": "caption.txt",
+     "size": 802,
+     "sha256": "88185bf707190ad8a5b31c3692b51bac227d7b70c08183aff29f9e54b512681b"
+    },
+    {
+     "name": "post.json",
+     "size": 232,
+     "sha256": "f89bb947c3e1e156c8d2f93432bac56cdab3b2338de57303baa0363e0c356ab4"
+    }
+   ]
+  },
+  {
+   "name": "2026-12-04-1500-carousel-n90-morning-setup",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 178721,
+     "sha256": "32b2d8474288277caa2893b10042303ace5a9a469e03df1885024b27b56bd0d5"
+    },
+    {
+     "name": "02.jpg",
+     "size": 148552,
+     "sha256": "360c9d58253c1423ffd970e3d18d4e886b25807225d84faf51d1243366f3094b"
+    },
+    {
+     "name": "03.jpg",
+     "size": 172842,
+     "sha256": "10ba3a41a043226a7983a483996cf7164c4da80ee02da9b3b7f2cc46138b0506"
+    },
+    {
+     "name": "04.jpg",
+     "size": 205524,
+     "sha256": "8e05abfabc764876daa380fe95155fb032219f5c8dca8d8122902c92c4c321cc"
+    },
+    {
+     "name": "05.jpg",
+     "size": 137208,
+     "sha256": "80cc343a905b2270f67983db1c86a21750435c0b8864f9d639a0bfffe0f65e5b"
+    },
+    {
+     "name": "06.jpg",
+     "size": 124977,
+     "sha256": "a2304a467155991f3e14b2b04777944baae3cc7b8e72e066b9aaf7b2e2ccbe2d"
+    },
+    {
+     "name": "07.jpg",
+     "size": 172980,
+     "sha256": "91ce8ed255a4f1843c2b7cfeb2c7f2314bb3c1bf658d8bcf622478d65712e6bb"
+    },
+    {
+     "name": "caption.txt",
+     "size": 672,
+     "sha256": "b4e6b3b37645570902234d76a3b82f134008ae2c779b502f067e9e82a43808d6"
+    },
+    {
+     "name": "post.json",
+     "size": 229,
+     "sha256": "cbf6867e0aa8a470adde659e249bedfa57cf6981ca9fd43dd44dfc889f4c5e48"
+    }
+   ]
+  },
+  {
+   "name": "2026-12-04-2000-carousel-n91-market-owes-nothing",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 154135,
+     "sha256": "8fc499271ba9de8fc4da93b183547f17ad795b534ea74d93739b7712d143cd62"
+    },
+    {
+     "name": "02.jpg",
+     "size": 122435,
+     "sha256": "60b556f04841e1a046fc3a28f7f292c15d78dfe24237c983977cd4b1a23a8fa3"
+    },
+    {
+     "name": "03.jpg",
+     "size": 130151,
+     "sha256": "5ea9a9fea756244013160a0c48bbdb0f90f09a894331f463dc86debf8dd4ae76"
+    },
+    {
+     "name": "04.jpg",
+     "size": 199738,
+     "sha256": "0ff9fdcdbd67288028d177ff2a7cecb0879af312836a63a6ecc2218c83f431df"
+    },
+    {
+     "name": "05.jpg",
+     "size": 198406,
+     "sha256": "be782a3f3e84b3d176b6d11b5c125d4fffeb9d7a454e1a685106d8ba10c0a328"
+    },
+    {
+     "name": "06.jpg",
+     "size": 143323,
+     "sha256": "79c675c6fe15f682e7a093ce909b72d9f40a77ba679d6f8d9423f45af352570e"
+    },
+    {
+     "name": "07.jpg",
+     "size": 154305,
+     "sha256": "841d8990c2c60fd516f11fafdbff093e4895bd6cbea4ae7e5dd47bcd3f60dc51"
+    },
+    {
+     "name": "caption.txt",
+     "size": 766,
+     "sha256": "232118847c92a383d08d2c1c652ad6723ba93c9ab099bee4506a64a19fe38aef"
+    },
+    {
+     "name": "post.json",
+     "size": 222,
+     "sha256": "d533e5180f02b9c25fcc454fde1b1eef9e536b769de0fb54289c7e137a64451a"
+    }
+   ]
+  },
+  {
    "name": "2099-12-31-0000-cloud-sync-test",
    "files": [
     {

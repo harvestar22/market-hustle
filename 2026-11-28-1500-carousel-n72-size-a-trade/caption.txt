@@ -1,0 +1,15 @@
+How to size a trade in 3 steps.
+
+Step 1: decide your max risk in money. Example: a $1,000 account risking 1% per trade means a max loss of $10 on this trade.
+
+Step 2: measure the distance to your stop. Entry at $20.00, stop at $19.50. That's $0.50 of risk per share.
+
+Step 3: size = max risk ÷ stop distance. $10 ÷ $0.50 = 20 shares. If the stop is hit, you lose about $10 before fees and slippage.
+
+Wider stop, smaller size. Tighter stop, larger size. A $1.00 stop means 10 shares, a $0.25 stop means 40. The dollar risk stays the same either way.
+
+You choose the loss first. Save this calculator logic, and comment "size" if you'll use it on your next trade.
+
+Example numbers only. Education, not financial advice. Trading involves risk of loss.
+
+#markethustle #themindbehindthemarket #positionsizing #riskmanagement #tradingeducation #trading101 #daytrading
