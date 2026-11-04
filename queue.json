@@ -651,6 +651,31 @@
    ]
   },
   {
+   "name": "2026-11-15-1300-reel-the-withdrawal-habit",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 403,
+     "sha256": "55c65617cd61323c58b84e5eb325ff784554a9827c41a740470099940efba51a"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 101055,
+     "sha256": "ba7497eb1d991dcda013935456afc45028a25d49501eed111c8d432288e2197b"
+    },
+    {
+     "name": "post.json",
+     "size": 367,
+     "sha256": "b5752eabe0e32f76fad4bae130a4174e71a3f2e3f717ca540e8fd5c9dbfdcd70"
+    },
+    {
+     "name": "v38-the-withdrawal-habit.mp4",
+     "size": 8241227,
+     "sha256": "c7c79cf1c4cc41f1d7f7198c10e3bd9fe1b78639b8c82310b4b3310a583b9990"
+    }
+   ]
+  },
+  {
    "name": "2026-11-15-1500-carousel-n33-one-percent-rule",
    "files": [
     {
