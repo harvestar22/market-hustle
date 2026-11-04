@@ -1,1 +1,54 @@
-{"folders": []}
+{
+ "folders": [
+  {
+   "name": "2099-12-31-0000-cloud-sync-test",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 163900,
+     "sha256": "1cb5467cd071553e52dc22a45df9efc08d9fea4aff014514781566f669294057"
+    },
+    {
+     "name": "02.jpg",
+     "size": 162786,
+     "sha256": "301b586ae5223292e5844f29406c1357d928b4718c3db9edbbe0abde98d451f6"
+    },
+    {
+     "name": "03.jpg",
+     "size": 190294,
+     "sha256": "3674d9107e6d2b7861038c4162f7c0f78145b3625df53a773aa3fd69cc026b96"
+    },
+    {
+     "name": "04.jpg",
+     "size": 214872,
+     "sha256": "ae62efe65f2f2bae97e5553982d61152b2e71717f387621af69356f1769ed44c"
+    },
+    {
+     "name": "05.jpg",
+     "size": 200176,
+     "sha256": "f93a99167f3fa369f5055666fe4e2035ca2099d40dc75f81093e2ff7927cef1d"
+    },
+    {
+     "name": "06.jpg",
+     "size": 183331,
+     "sha256": "53260c2533b7a018d23b7fea5ea1bc69a73933cbf7ebac814b82814486f54a95"
+    },
+    {
+     "name": "07.jpg",
+     "size": 158910,
+     "sha256": "a7187843cc3b0fb0fb633ec7cc36abd07807e8428cfa52cf734a1e707205f2fd"
+    },
+    {
+     "name": "caption.txt",
+     "size": 76,
+     "sha256": "886e6764be0a3fb4b070b0a7abdcb1fe5cd0077f3c0deac3a02ab0612ff5de03"
+    },
+    {
+     "name": "post.json",
+     "size": 113,
+     "sha256": "0a140952632b61534edf42f6cd2f443a5471f66d5c1a274467309f476358c553"
+    }
+   ]
+  }
+ ]
+}
