@@ -3451,6 +3451,31 @@
    ]
   },
   {
+   "name": "2026-11-28-0905-reel-op90-mh067-same-setback",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 245,
+     "sha256": "a5a2907ebc012a979c42fe5b305c970e1303e2cfab5d2ded349a86d5da2d13fa"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 253992,
+     "sha256": "43cdca68b989ef59096d0e53b218f768e824677adbdd484204e4817a37c6426e"
+    },
+    {
+     "name": "op90-mh-067-v2.mp4",
+     "size": 6587451,
+     "sha256": "fc4fdc155b7cccbae3b740ab0b50a99d462f7bc01f0e5d15377bfa17333fd415"
+    },
+    {
+     "name": "post.json",
+     "size": 218,
+     "sha256": "488f61668a237dc6a6abf7a4e77981563cc2878d73c1b121ffa928d92559ab73"
+    }
+   ]
+  },
+  {
    "name": "2026-11-28-1100-carousel-n71-money-growing-up",
    "files": [
     {
@@ -3497,6 +3522,31 @@
      "name": "post.json",
      "size": 253,
      "sha256": "dbc32b34dbccde3170b87cd4e4654959323fa9333599fbd762415e4ad42cf74a"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-28-1305-reel-op90-mh068-plan-before-the-open",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 313,
+     "sha256": "77e370a6e506ac2189ce1b311034054d46212a4e573da9756ca7fdf99731ab91"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 253123,
+     "sha256": "06d0f67bc43c667547132424965955cea76a5092a5223ac2609a52750d42559d"
+    },
+    {
+     "name": "op90-mh-068-v2.mp4",
+     "size": 6321970,
+     "sha256": "758d3844676bc2582d440a530062e1a66ecc74959469c2ae413812e3314b5216"
+    },
+    {
+     "name": "post.json",
+     "size": 238,
+     "sha256": "fdd899a6cb8709f4285f7f2b853b876c136a7272c35728f37cf1eedfbe61cfff"
     }
    ]
   },
@@ -3551,6 +3601,31 @@
    ]
   },
   {
+   "name": "2026-11-28-1805-reel-op90-mh069-you-vs-you",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 201,
+     "sha256": "3217eb8417a85cce6802343ef6a064d720a098e81602a27e88539cf1e67eb412"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 241253,
+     "sha256": "7c8c0fc24fa8b2314499d1e6154a469b26d62c60931ac9b8f77da0177f53ac49"
+    },
+    {
+     "name": "op90-mh-069-v2.mp4",
+     "size": 6326041,
+     "sha256": "50e47d066f841e20e342c642514a48b2de5ce0a608730f9029a6d6a768105937"
+    },
+    {
+     "name": "post.json",
+     "size": 214,
+     "sha256": "47d553bfb8ea80539672d1f0e843a0f666b999acd09c357877d8f9eae4a3d2c6"
+    }
+   ]
+  },
+  {
    "name": "2026-11-28-2000-carousel-n73-rituals",
    "files": [
     {
@@ -3601,6 +3676,31 @@
    ]
   },
   {
+   "name": "2026-11-29-0905-reel-op90-mh070-the-fast-money-door",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 274,
+     "sha256": "dc3492b56423158faedcad6959191f8c0252600c52391c3077a799acbba7774b"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 266591,
+     "sha256": "74147aa453180ec0f5db4d6378d5ac2b99af6f53805d1eb709021f9226006d73"
+    },
+    {
+     "name": "op90-mh-070-v2.mp4",
+     "size": 7386401,
+     "sha256": "6158f6310670d4791a52b3b9ba0e3ab003bf27d48a05d36518f518c1b92c5dd3"
+    },
+    {
+     "name": "post.json",
+     "size": 232,
+     "sha256": "b0786fa3d92cc7a24fc2a3af420c6afdc3af55c2f1a2c134fdaab0cc37ff2797"
+    }
+   ]
+  },
+  {
    "name": "2026-11-29-1100-carousel-n74-small-leaks",
    "files": [
     {
@@ -3647,6 +3747,31 @@
      "name": "post.json",
      "size": 253,
      "sha256": "e75c2d92e7cb6154861fe6dcb47506aa08247f2c186556d1c5f796652650fea3"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-29-1305-reel-op90-mh071-confirmation-bias",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 348,
+     "sha256": "e20a369b941ea33a8385699e175d9903e2537ec83df61ba664fc2ec0da2b7ef7"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 213913,
+     "sha256": "7cb273f60180627dafa91e43d144f444d12d05d3c2fcf68d7ba9a3317624a2f1"
+    },
+    {
+     "name": "op90-mh-071-v2.mp4",
+     "size": 6590934,
+     "sha256": "b0de95b609ab6f16a6c160f312ecb00566cd426c217dc33284aa198c23259833"
+    },
+    {
+     "name": "post.json",
+     "size": 228,
+     "sha256": "dab2bd95d2243ec30a35f0e1f13686672735529f8dd0b2d16657cc3a55e3a59b"
     }
    ]
   },
@@ -3706,6 +3831,31 @@
    ]
   },
   {
+   "name": "2026-11-29-1805-reel-op90-mh072-ready-when-it-comes",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 296,
+     "sha256": "962a8045aec885a206ca941da1352c832aa55b26fc60f3a4eb2e89793d4cd6a3"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 233045,
+     "sha256": "a9371888b45ed701bf7b5a1de1605d89b2625e2b362003c686c990dd8d9193f3"
+    },
+    {
+     "name": "op90-mh-072-v2.mp4",
+     "size": 7747445,
+     "sha256": "2529cab69e8c30815f8a6d0dcb50ddafd703882e16d1d14a186e6a36231db682"
+    },
+    {
+     "name": "post.json",
+     "size": 232,
+     "sha256": "25364490fea55cb8762b529bb18d1a8fa6a1c9d0ab591ef8bb6d20ebdc6f2273"
+    }
+   ]
+  },
+  {
    "name": "2026-11-29-2000-carousel-n76-boring-right-places",
    "files": [
     {
@@ -3747,6 +3897,31 @@
      "name": "post.json",
      "size": 220,
      "sha256": "6525460bb03ef6fed71b55872a24fd4f1d188d90693a95babcffa88b4c73d494"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-30-0905-reel-op90-mh073-red-day-different-night",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 316,
+     "sha256": "dda092259b36b2fe72b805c78ff042b50c390b5ed29a7f82d28e90dcd50626b5"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 199874,
+     "sha256": "db703e4859a69aad6ae82dd3cb3ab3c775eea8bb98a9fb01f1e265bb7bb03dd7"
+    },
+    {
+     "name": "op90-mh-073-v2.mp4",
+     "size": 5983069,
+     "sha256": "a0b7511750d095e524f38f673f1f51f6c224071636054f4b1e7d6a915a4f7f74"
+    },
+    {
+     "name": "post.json",
+     "size": 243,
+     "sha256": "1ce9fbf7ef1280923f46a2dd1e241ab7ab830311a120b4fc8d8974a95d26dd33"
     }
    ]
   },
@@ -3801,6 +3976,31 @@
    ]
   },
   {
+   "name": "2026-11-30-1305-reel-op90-mh074-the-account-is-oxygen",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 374,
+     "sha256": "0ee218de762b2dfbeaf4ac050c14a79b755f954114ff72da576de3a8fcc8b442"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 237738,
+     "sha256": "cf99794087df5516ca7c06b038eef4f101d3e4aebe8f8648a9f74c1da2d5e7eb"
+    },
+    {
+     "name": "op90-mh-074-v2.mp4",
+     "size": 7860698,
+     "sha256": "0f7cfdf28c744553ccac775815bccc1173759b9757633e734951aa8d635112ac"
+    },
+    {
+     "name": "post.json",
+     "size": 236,
+     "sha256": "46e110dc9c6051657020514eef988803193067e51256e6197dcba8768144614b"
+    }
+   ]
+  },
+  {
    "name": "2026-11-30-1500-carousel-n78-deep-work-block",
    "files": [
     {
@@ -3847,6 +4047,31 @@
      "name": "post.json",
      "size": 221,
      "sha256": "ded497e42232bfaab2254ef9114f0c5cc397541f24e6f61f28032a3f02e7f132"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-30-1805-reel-op90-mh075-nobody-remembers-the-rain",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 190,
+     "sha256": "6c292526d65dabbb1516cc2df896e95837568552dc694a0f53f0e058dc48322a"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 450435,
+     "sha256": "fcc4c45b84ecf6855647691cfa6b6e4e55a982653cef919eba4cdfb4e51e6e60"
+    },
+    {
+     "name": "op90-mh-075-v2.mp4",
+     "size": 15783356,
+     "sha256": "c62a70395d787c690d48130d49946aeff9e3d17f7a309aadf6902363cb31286e"
+    },
+    {
+     "name": "post.json",
+     "size": 244,
+     "sha256": "218c9fc24b9542cec2c555ef3cb36c89f2f8199380d6361152b7625c8b6fd574"
     }
    ]
   },
