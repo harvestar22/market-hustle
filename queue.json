@@ -756,6 +756,31 @@
    ]
   },
   {
+   "name": "2026-11-16-0905-reel-op90-mh031-two-traders-same-1000",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 368,
+     "sha256": "673c30e570ffbedf1a9fa79a018e957fe9ef9bdabab66006c82a7100a382acf3"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 240954,
+     "sha256": "5c4644195d270c757fedeb22c041f18a04157273ca08793503ac92f0d29f674e"
+    },
+    {
+     "name": "op90-mh-031-v2.mp4",
+     "size": 5592097,
+     "sha256": "a9c9b41a10001da1392579a58dac0d77ed1ceff00a47bd4d91c8744004b15ec2"
+    },
+    {
+     "name": "post.json",
+     "size": 239,
+     "sha256": "1093de83b79d077666bf90a87c135dc7f2513b3fd0881fda5ea6e5b0bed54880"
+    }
+   ]
+  },
+  {
    "name": "2026-11-16-1100-carousel-n35-five-wins",
    "files": [
     {
@@ -802,6 +827,31 @@
      "name": "post.json",
      "size": 231,
      "sha256": "0ca55622b65967c8e95a63923f2f247d7b29be901fadea9e53248e23f697b5a5"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-16-1305-reel-op90-mh032-the-overtraders-day",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 306,
+     "sha256": "33135727d16890e27d346f4c9b8294b64b2b7cd52fc773698c9144642529edf0"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 230964,
+     "sha256": "969859b6a340609a17274615f36b4b3b8db76eeb57020950dfdc5805d60020f9"
+    },
+    {
+     "name": "op90-mh-032-v2.mp4",
+     "size": 5397633,
+     "sha256": "31fe673a3487657c0e49ea37fe7b1b20c868350039507ad8394dbb111a2b0151"
+    },
+    {
+     "name": "post.json",
+     "size": 233,
+     "sha256": "79c1957c5fd2254740fe04120f9e6f6b993ce4acb1bc814898835cafc7ab219e"
     }
    ]
   },
@@ -856,6 +906,31 @@
    ]
   },
   {
+   "name": "2026-11-16-1805-reel-op90-mh033-rest-is-part-of-it",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 202,
+     "sha256": "2f9947e18d57f3718ff03b7456abceadb6fabdaea30d2e86e1809d9aadcd592d"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 223416,
+     "sha256": "a7b3a72add486363440b3b8c8765a20904c0be3ebf0e4d65e15d774fb1dbf595"
+    },
+    {
+     "name": "op90-mh-033-v2.mp4",
+     "size": 8423929,
+     "sha256": "7c7e66f2f0b58b531601cce223ecd3904db5fce086b73672e69fd16fb79e35c8"
+    },
+    {
+     "name": "post.json",
+     "size": 230,
+     "sha256": "ad66ccd72cba1cf215baccc86017007c88d4d8b6b1b364272b648f729a63c469"
+    }
+   ]
+  },
+  {
    "name": "2026-11-16-2000-carousel-n37-quiet-room",
    "files": [
     {
@@ -902,6 +977,31 @@
      "name": "post.json",
      "size": 233,
      "sha256": "d781d73ac61e20925198b587e718a04802eb0ecb374a764cdb5ffda3660cfde2"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-17-0905-reel-op90-mh034-rich-look-vs-rich",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 244,
+     "sha256": "d5160dd17502beda46021876f5d3cd07fe5e900012e6b6c4a315936f4f9809f2"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 241409,
+     "sha256": "5e2f5a6918d1a896141f98ff2e7d40e79c392e334c9af0fc1a24b0927e849113"
+    },
+    {
+     "name": "op90-mh-034-v2.mp4",
+     "size": 6157286,
+     "sha256": "463878a9de6a4e5f38d315284f4e479449f547651a8846a8769ce71da4e15f91"
+    },
+    {
+     "name": "post.json",
+     "size": 228,
+     "sha256": "4aaa33b81b18e6e123a9625e8af3493a9e8f729dbce633a2edc4d8bf71165a0e"
     }
    ]
   },
@@ -956,6 +1056,31 @@
    ]
   },
   {
+   "name": "2026-11-17-1305-reel-op90-mh035-the-10-second-rule",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 325,
+     "sha256": "df5b1e5b2b91898f024e8cbf82256fdc1c3bfe58fafbb058ee1ea0c38845637a"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 237260,
+     "sha256": "90f76a299ba500ddf9f1b5d45f1b5a4b5b87d7200264c28a25f02abc0deb4693"
+    },
+    {
+     "name": "op90-mh-035-v2.mp4",
+     "size": 5124066,
+     "sha256": "cf72324b3602e4c85b404389af994faab211ad0557bcb40b04bff70e278eccdb"
+    },
+    {
+     "name": "post.json",
+     "size": 230,
+     "sha256": "8062f4dacc103e9957fe16b76bd1fb93ec98949b6bbc80013a76ba52d167bce3"
+    }
+   ]
+  },
+  {
    "name": "2026-11-17-1500-carousel-n39-four-decision-tests",
    "files": [
     {
@@ -1002,6 +1127,31 @@
      "name": "post.json",
      "size": 224,
      "sha256": "51782e69e10c33dcff487867c26591ef3e1e996f45b8d91a31f33f7ddcb8cc50"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-17-1805-reel-op90-mh036-do-it-tired",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 164,
+     "sha256": "bc8b0de9ea37cfec8f35c7959b75721ce053390120cb21d9c19ad992b1fb5be1"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 206509,
+     "sha256": "1fcd184b7dc3b614e473c46d4bd2e4b770448bf91f6b00756a653ee64e77d1bd"
+    },
+    {
+     "name": "op90-mh-036-v2.mp4",
+     "size": 5750917,
+     "sha256": "5b044e698e536e52240aa85e08227b40def8c6a2581b77a886990c0b61158ac8"
+    },
+    {
+     "name": "post.json",
+     "size": 216,
+     "sha256": "1bef74ac4fc3d7c3b5fbdfeb02be0af1f0f39b692482c475dd4497b7fb6c872d"
     }
    ]
   },
@@ -1056,6 +1206,31 @@
    ]
   },
   {
+   "name": "2026-11-18-0905-reel-op90-mh037-two-kids-same-allowance",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 252,
+     "sha256": "ba40ef2bd431126b39c86501c5caae5a4d989d0906d528063ede0d101cd193d5"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 209970,
+     "sha256": "55afdcd6312e829ea18767b7adeeb4fcdd1b87cac42cf0d98dd4901f52db8f18"
+    },
+    {
+     "name": "op90-mh-037-v2.mp4",
+     "size": 5021764,
+     "sha256": "24274abef5f6b2e85a4747998badfa8551ded7f68c41061fdf7ee33fca17929a"
+    },
+    {
+     "name": "post.json",
+     "size": 241,
+     "sha256": "ec761f86aadfc17f5bfb07e9f47909106e45294ed1371d02e46326e27e265b9a"
+    }
+   ]
+  },
+  {
    "name": "2026-11-18-1100-carousel-n41-checked-40-times",
    "files": [
     {
@@ -1106,6 +1281,31 @@
    ]
   },
   {
+   "name": "2026-11-18-1305-reel-op90-mh038-hope-is-not-a-strategy",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 315,
+     "sha256": "4fea02f882f5e17193bead3b0f6d60c28e1c9f0ff63dc58d4a8d538198bfdb1d"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 189140,
+     "sha256": "bb938e08e2a5ad139a20895407ea62f6e004f260cd91f4635bdbc4adc7ce63a3"
+    },
+    {
+     "name": "op90-mh-038-v2.mp4",
+     "size": 5288752,
+     "sha256": "11e173968b84502a6112f726729923874c6ccf4c37b7f19b558e01b276f79aed"
+    },
+    {
+     "name": "post.json",
+     "size": 238,
+     "sha256": "7c50b911cabc0865779e37a88a7cca6bd1eba1b307cf2e8eee95bf02ba1e7265"
+    }
+   ]
+  },
+  {
    "name": "2026-11-18-1500-carousel-n42-five-line-journal",
    "files": [
     {
@@ -1152,6 +1352,31 @@
      "name": "post.json",
      "size": 237,
      "sha256": "02ed9fa2244c05574ab5497e53d8f21fdf98f54924a1c86edc699c0d01869a25"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-18-1805-reel-op90-mh039-the-quiet-year",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 226,
+     "sha256": "ca19dea67094366dc8ffc6005cf257b7b419d3fd13cceffa21be2201602b8d83"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 210937,
+     "sha256": "3ffacab4a8fa49de4a26fd329774f55cfac6611cd5fd2529ea5e9a5313df421e"
+    },
+    {
+     "name": "op90-mh-039-v2.mp4",
+     "size": 6708064,
+     "sha256": "e76faa1f536845b2d625ccee93b0ee2edabca6090fa61ff683f5c2c964714413"
+    },
+    {
+     "name": "post.json",
+     "size": 222,
+     "sha256": "9aa3c967f9fdb4435206a6b9124a0e80cf650e69188b4d30b7fd943253904e9c"
     }
    ]
   },
