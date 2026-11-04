@@ -2551,6 +2551,31 @@
    ]
   },
   {
+   "name": "2026-11-24-0905-reel-op90-mh055-the-coffee-math",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 256,
+     "sha256": "33d5f59fc067e28308dc3865984fcca3bd47307ad99114af08de88e4fdcc3853"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 210316,
+     "sha256": "72cc70350a57182f5c1febc208ead72f18e687f4ed6bc58ce76c57d57ce985a7"
+    },
+    {
+     "name": "op90-mh-055-v2.mp4",
+     "size": 6879456,
+     "sha256": "7c2519af38636c52ac24fa2f9d4465dab7bf89d2b369c93f01b85d8629b0ec94"
+    },
+    {
+     "name": "post.json",
+     "size": 224,
+     "sha256": "dccb47fa43124226983a49babcf5f822863fb22f8dfb4e48ad8fffb2fa342cbd"
+    }
+   ]
+  },
+  {
    "name": "2026-11-24-1100-carousel-n59-status-watch",
    "files": [
     {
@@ -2597,6 +2622,31 @@
      "name": "post.json",
      "size": 252,
      "sha256": "bb4e11dfc91d2f15f9fa14f1940e73a27acf855834017b7de9bbe3d5d32d1688"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-24-1305-reel-op90-mh056-demo-vs-live",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 318,
+     "sha256": "56a05a2a66ad27062dd30ec1d8bdf3ce9817b32680b69a4a66c6ccf0f8501acf"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 259698,
+     "sha256": "a9e640a29f681f99139fb222cee9b7a7174bd0e743819e469b9ea17ee1c71626"
+    },
+    {
+     "name": "op90-mh-056-v2.mp4",
+     "size": 5576248,
+     "sha256": "9c2ea94931cc64e56ed4a3a409a01cf6e91953e16056f1ece72362586fbdabcd"
+    },
+    {
+     "name": "post.json",
+     "size": 235,
+     "sha256": "6bd510a6fc83e5a56a4168c176e3c2490f2f56e4c44e139885b21627e96db403"
     }
    ]
   },
@@ -2651,6 +2701,31 @@
    ]
   },
   {
+   "name": "2026-11-24-1805-reel-op90-mh057-the-promise-nobody-heard",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 235,
+     "sha256": "8f06e4f9056fb4195026efa6a66b1f6ca0f706d9a64df724d4cc9c5ed1edac2b"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 201773,
+     "sha256": "36fcbb5c68695dd2bebd2bcffce7e3d0d65d915c83407c16b656727208987817"
+    },
+    {
+     "name": "op90-mh-057-v2.mp4",
+     "size": 6148125,
+     "sha256": "2acb43d6dc91f16d86834caa77a0b89abf48b3e0e8c151041e05a6d0d8ea166f"
+    },
+    {
+     "name": "post.json",
+     "size": 246,
+     "sha256": "6a8094d88c6f781c951606c0b7c5e91ec3e6caa6003a69dac347df800827a43f"
+    }
+   ]
+  },
+  {
    "name": "2026-11-24-2000-carousel-n61-stay-a-student",
    "files": [
     {
@@ -2697,6 +2772,31 @@
      "name": "post.json",
      "size": 245,
      "sha256": "9f6cf1130878531572bfb2e1b9d439ec4c83fc590b5d494094b202f2867af278"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-25-0905-reel-op90-mh058-cant-download-a-skill",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 215,
+     "sha256": "3e7c3b508459f90ad990a09940c2fa7212c0e36c4905049c07e28d809dfa7697"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 218054,
+     "sha256": "71ff870839feaa5a31d0f74487f431233358cb1b4d54a751026b03a30cc81fbf"
+    },
+    {
+     "name": "op90-mh-058-v2.mp4",
+     "size": 6021081,
+     "sha256": "a430748717c4ae066f54f205cf35151dfb99a2b5692dc25291f243c8b4842e52"
+    },
+    {
+     "name": "post.json",
+     "size": 232,
+     "sha256": "fb4269b0f369efe6516df7d9fda6568fbbd835730c7fce07d848ae18da749275"
     }
    ]
   },
@@ -2751,6 +2851,31 @@
    ]
   },
   {
+   "name": "2026-11-25-1305-reel-op90-mh059-the-sunk-cost-concert",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 362,
+     "sha256": "e371010e4b6f13997ef7f6d61b40d451b51eb32abef83a79aaf403d29f88b113"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 229083,
+     "sha256": "6ae71419cfc11912a53aeed9734c61635d4b791dad3bf02363b3244850f155bb"
+    },
+    {
+     "name": "op90-mh-059-v2.mp4",
+     "size": 7867409,
+     "sha256": "fe851e0635d5e59c2a5cd8c30d6b99edeaa8b93087e9a5846a20d3b2bf93dc22"
+    },
+    {
+     "name": "post.json",
+     "size": 236,
+     "sha256": "fa9052a0d9f85b1790681d8c8c46319a87f1646cacf20f1dad565d7f82641321"
+    }
+   ]
+  },
+  {
    "name": "2026-11-25-1500-carousel-n63-energy-map",
    "files": [
     {
@@ -2797,6 +2922,31 @@
      "name": "post.json",
      "size": 229,
      "sha256": "f123b40271deb646c8512fe71975e15f48a9c6c3ff0f0c720692534b1f047e3e"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-25-1805-reel-op90-mh060-under-pressure-glowing",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 225,
+     "sha256": "78db810f342bb4235e9c080e1d1fd5680a7bbbdfaaf6e34eaa5302c1b04d5808"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 203612,
+     "sha256": "ddd4e24a39d79e55e5c8193292fc3dda7e5f0e38a41f65ebeff176f54d0729a2"
+    },
+    {
+     "name": "op90-mh-060-v2.mp4",
+     "size": 8050586,
+     "sha256": "ff5b83bcbcc7e7e2aa9e5a63007b2b977c34bce59c5443bdea824cee70171f05"
+    },
+    {
+     "name": "post.json",
+     "size": 239,
+     "sha256": "1e4717bf9454c597b1d96914122c9066097493c9ea79d54900535026e22ee9d1"
     }
    ]
   },
