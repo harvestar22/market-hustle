@@ -1356,6 +1356,601 @@
    ]
   },
   {
+   "name": "2026-11-21-1100-carousel-n50-bad-with-money",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 134720,
+     "sha256": "6cc2fa33aa0082b2986911d67a1732697e051710e89afaf63ac6a35437d22fc2"
+    },
+    {
+     "name": "02.jpg",
+     "size": 183906,
+     "sha256": "ae5b9a8357857ad31e78dcb5dc7c857639a42c82635c67a0fdc5f73a0eb9f9c6"
+    },
+    {
+     "name": "03.jpg",
+     "size": 210954,
+     "sha256": "3228675b50b26d46bed75df0081ea22b8559b3fc77ef2f1d2d71cb40864d67b0"
+    },
+    {
+     "name": "04.jpg",
+     "size": 194790,
+     "sha256": "430d989d5bc2e683f4117c2456f55468ef6780d382839653d4389c8153aeb6e0"
+    },
+    {
+     "name": "05.jpg",
+     "size": 194083,
+     "sha256": "a29987bd759984b16de951eaa8dce565d2693fc6413c862521467a5dfc56d654"
+    },
+    {
+     "name": "06.jpg",
+     "size": 187303,
+     "sha256": "486369c6f673afe56267a5fd8a373018832382d6d097a66b641bb761a6d7d306"
+    },
+    {
+     "name": "07.jpg",
+     "size": 165702,
+     "sha256": "a3342fce609d3522ee25d9fc50a308ade31d7b66c12feaac1b45a86af52832fe"
+    },
+    {
+     "name": "caption.txt",
+     "size": 745,
+     "sha256": "b92c6fc4536da913dd345791280463294aadbe1a2a6776b54da1470e5cfe2055"
+    },
+    {
+     "name": "post.json",
+     "size": 226,
+     "sha256": "2456631ce7eb440d1f9391e3265dac20b9378c640710d4189bb7106ea146467b"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-21-1500-carousel-n51-savings-buffer",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 211908,
+     "sha256": "a307196df2e99b9da600b9515a39301400e56a77ae72bfedd56ff3064fe5f7d2"
+    },
+    {
+     "name": "02.jpg",
+     "size": 170002,
+     "sha256": "a6860e59d63305dab967c11a31f51d4eb1b9c64b40232e756953c221272e7c78"
+    },
+    {
+     "name": "03.jpg",
+     "size": 191398,
+     "sha256": "62fc07acceb4c7da03c970c4116c073c58421eabf0b2979bde3df5ffdaa7935c"
+    },
+    {
+     "name": "04.jpg",
+     "size": 173919,
+     "sha256": "6b255c4d935a0fde961f755446b946f7d95663b8df49a46fadfff80c3e2b7d56"
+    },
+    {
+     "name": "05.jpg",
+     "size": 157541,
+     "sha256": "a2bd1f913971087619c4e633885be9c20a2cb320d080c8c82567a90279533d7d"
+    },
+    {
+     "name": "06.jpg",
+     "size": 212441,
+     "sha256": "fea92b17305d0938b5fbb205a26fc5c95046684fef5dd7d19c5b5ecafa9303f6"
+    },
+    {
+     "name": "07.jpg",
+     "size": 142549,
+     "sha256": "98bf2d54feeca99b481d0b3a95a5311f07b07383892b87dd4d66b1a672754b33"
+    },
+    {
+     "name": "caption.txt",
+     "size": 847,
+     "sha256": "3508d4a861f73c5d077ed7b6d048e33f4e48d88167b901a1b95f768df4ca7a08"
+    },
+    {
+     "name": "post.json",
+     "size": 240,
+     "sha256": "e48e6e75f7c9acaa01492e3a93f6d671caa156f5f8c717d51ad55dc81674ccef"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-21-2000-carousel-n52-do-it-tired",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 139552,
+     "sha256": "597c0a24efb2af9e1de7e828223d85873907c4d37887c0924e3af1c1d871c8ef"
+    },
+    {
+     "name": "02.jpg",
+     "size": 144480,
+     "sha256": "b11d34445c2aa188d8cb503ba6639b992fe3154421dbd1f37d7a7afa8175a241"
+    },
+    {
+     "name": "03.jpg",
+     "size": 208825,
+     "sha256": "4f78e3171f5001011834f5e8cbedd3253103c80a7e97cbc042892709f5a06bf6"
+    },
+    {
+     "name": "04.jpg",
+     "size": 192134,
+     "sha256": "605ca68d920ede95c4bb1b861d9777a882ef63daae3d40a9bf5d43ee409803f3"
+    },
+    {
+     "name": "05.jpg",
+     "size": 141048,
+     "sha256": "75f57e11996f97c6bbaaffde6763daa5dbc16d64c98774d4fa020d5f34f95bf5"
+    },
+    {
+     "name": "06.jpg",
+     "size": 154564,
+     "sha256": "6c4a1e2f811aec478430b16d181ec7b1c8c50f2d1759c328e95d9e6bdb8c4005"
+    },
+    {
+     "name": "07.jpg",
+     "size": 142801,
+     "sha256": "d244dedf2c876de6cd93a1006d8241eeea6c24d5abc0a4659c934f374281aa72"
+    },
+    {
+     "name": "caption.txt",
+     "size": 676,
+     "sha256": "3b2c4d39b71a35f1f2dbaea343928a953c1bd441b55e82b64a0bcbdb74da1831"
+    },
+    {
+     "name": "post.json",
+     "size": 215,
+     "sha256": "e4a269a36fa9c8f38f5ac6b004b5623b19871eddc388398d4ed8ec474c1a26be"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-22-1100-carousel-n53-knew-it-would-drop",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 146050,
+     "sha256": "7a8d0bcb3d7f0493348c1734a4b3b686c07e38c05b815a8612e1f6e3c4d9aad8"
+    },
+    {
+     "name": "02.jpg",
+     "size": 185523,
+     "sha256": "801845ead87a59b66d7432c2e4d91566ba1f307f9f4abd59fb888ec53c3f7f4d"
+    },
+    {
+     "name": "03.jpg",
+     "size": 217992,
+     "sha256": "3db3ae696be6bd8bdca3d0d65e5cd631b207be326efe92830e78dded5d3b1306"
+    },
+    {
+     "name": "04.jpg",
+     "size": 171444,
+     "sha256": "1e77afbe2b908244e97d2c0000f431e4e5eeabf1285ed7c17b0600c45aaad277"
+    },
+    {
+     "name": "05.jpg",
+     "size": 192312,
+     "sha256": "dea4d8d0504907c596783dbcb2a03c212bcce76b08e435be93e3dc00fd4f221f"
+    },
+    {
+     "name": "06.jpg",
+     "size": 166440,
+     "sha256": "04a9e46abfc17c54f3e4ee20ac5138fdd8d51c753b6ae90a84d3b6afd4e03580"
+    },
+    {
+     "name": "07.jpg",
+     "size": 156867,
+     "sha256": "a9a7d01d59eb479e463b8d5760a0c2c64046e943b51b3d5b19cb041c6bd3fee7"
+    },
+    {
+     "name": "caption.txt",
+     "size": 866,
+     "sha256": "40d8620a70cd0aa48416e51c9e71366811ae335027aa00e7b05b8782c8420a4d"
+    },
+    {
+     "name": "post.json",
+     "size": 231,
+     "sha256": "dd67fc0b8d65eaf755228aeb462ea459e88a23725497ef9153e656ed5d567a49"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-22-1500-carousel-n54-goal-ladder",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 142160,
+     "sha256": "b0a7c5adef85bb3ea695e117c0584c8d28de0f4e3d3e89e69e922ac1262581fd"
+    },
+    {
+     "name": "02.jpg",
+     "size": 171788,
+     "sha256": "7a62591e464c1fd70886ff017b14c60611fb5c97ae3ef943b4cf0c58e9d87118"
+    },
+    {
+     "name": "03.jpg",
+     "size": 149482,
+     "sha256": "9fb79d1281893f0515e2d9f0fcebfa9a50374b802eb36286c4f73a49c2340f22"
+    },
+    {
+     "name": "04.jpg",
+     "size": 124523,
+     "sha256": "97e393db4dffade50354a82a81bed216f81870087792e5cb87e90aefc07b4d22"
+    },
+    {
+     "name": "05.jpg",
+     "size": 161616,
+     "sha256": "94841e76633617a84576fc0ca43eb5744d285b8b8d60841512e2ce9f02c76999"
+    },
+    {
+     "name": "06.jpg",
+     "size": 165215,
+     "sha256": "0704379b014a0e859035d57065682066b63b3a04080e72d5a4c7ee060e9c0232"
+    },
+    {
+     "name": "07.jpg",
+     "size": 150081,
+     "sha256": "1556742c145310ed27f230bfe69960aca014e2253ddef33c30e05a238280531e"
+    },
+    {
+     "name": "caption.txt",
+     "size": 684,
+     "sha256": "2479f7e34206308795242b7311c3e0c51e7ee82c1a3ea31e2b41d2d2814a948b"
+    },
+    {
+     "name": "post.json",
+     "size": 235,
+     "sha256": "0ad7884603bcfab4a53ffb9df6e62e03082aa8a15f3d7b57590688e65642fd56"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-22-2000-carousel-n55-applause-delayed",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 170062,
+     "sha256": "1cf3b50ae18264545bcd29dc71cecb52d31d3319046c7560698291829a2f73c3"
+    },
+    {
+     "name": "02.jpg",
+     "size": 162238,
+     "sha256": "ecc68af4dae73e035c242d531b6030f3154fd2f13a1d66829163654970120174"
+    },
+    {
+     "name": "03.jpg",
+     "size": 169822,
+     "sha256": "3cc56a3da613a4b78a0288f7ee0b955655d7c25424ee11a5ea42924734cd07d1"
+    },
+    {
+     "name": "04.jpg",
+     "size": 193597,
+     "sha256": "1f028563d4f1bb9ab5260d067fd78ceeb17f565f024b711bd08691947bb9221a"
+    },
+    {
+     "name": "05.jpg",
+     "size": 144080,
+     "sha256": "7179ee8c35a878b107d97fc75b61e301ed46705a2af5132bd571efc0bf107929"
+    },
+    {
+     "name": "06.jpg",
+     "size": 161320,
+     "sha256": "3fde6d679090f6c1b4cb41e976f9a10c86e43ee7086058d23e840a27f52d791b"
+    },
+    {
+     "name": "07.jpg",
+     "size": 159279,
+     "sha256": "7529ad7c7bad1cc1de36bb938fd9a43087bb508b8fe607723fcfd9a2fe3b8ecc"
+    },
+    {
+     "name": "caption.txt",
+     "size": 720,
+     "sha256": "1d3bf18ad12c40f9f916c511b861df7130b21d82711a7a5de9daf0594a0b78fa"
+    },
+    {
+     "name": "post.json",
+     "size": 223,
+     "sha256": "93e25875ba8d1899ed2f36ca972ecc0894a26ec572ff236fbe600ed075cc90cf"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-23-1100-carousel-n56-stopped-going-out",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 176618,
+     "sha256": "558b015cf7f2b8216b09363ab5e9e40be858dc27996ab56273b1e1f96b8a40b5"
+    },
+    {
+     "name": "02.jpg",
+     "size": 167878,
+     "sha256": "798079168825be21da2c2d606ef76abb1c73d8f9af2cedbf00d6e756c3d9af25"
+    },
+    {
+     "name": "03.jpg",
+     "size": 210228,
+     "sha256": "01f7a797eab7cd32561eb135633b8b2c909be1fb106731c0a593c5377759d82e"
+    },
+    {
+     "name": "04.jpg",
+     "size": 205175,
+     "sha256": "1e78cb96fe677e329b2d7339b96a41f7da3c28346e60ad0812c3c448ea14a6a8"
+    },
+    {
+     "name": "05.jpg",
+     "size": 173107,
+     "sha256": "6baffa3be35564bbd221232a3f3b5b20cb30edc5bdad99bee23a2bf65d50c1a5"
+    },
+    {
+     "name": "06.jpg",
+     "size": 163345,
+     "sha256": "35d3213b79a5aed10d6dc03abd81c3c7411e09c53c095df66ee0baf097300572"
+    },
+    {
+     "name": "07.jpg",
+     "size": 145854,
+     "sha256": "c3092be2a7826aff6cdaaacad4973e2299a639294c502482df7d7c30a0cc540a"
+    },
+    {
+     "name": "caption.txt",
+     "size": 689,
+     "sha256": "33a8dd72428b91fcf4e95da10fd4b6e834642008efd35e7014cfae011c344e7f"
+    },
+    {
+     "name": "post.json",
+     "size": 233,
+     "sha256": "1eed4e301dce7a2902f3dee299f73162b8811d944cd348287f0a15698e8ed971"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-23-1500-carousel-n57-money-mistakes-20s",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 233462,
+     "sha256": "ae8fe07940e50e471ed2407b65aa2524c9571d71476bc0a1bdb0bd8cdda25aac"
+    },
+    {
+     "name": "02.jpg",
+     "size": 184165,
+     "sha256": "c9710b96a27dea185c42debcdd6f27f81758a659974124678486e9d0e31b8200"
+    },
+    {
+     "name": "03.jpg",
+     "size": 154776,
+     "sha256": "76f01317d48b0f3373c730f81c4ff0ee3039b17426313cb94e5538b89104c11c"
+    },
+    {
+     "name": "04.jpg",
+     "size": 180378,
+     "sha256": "1a753205100aa482a70311daf077aa111f139579bed10c8c7fdd0aac4c1c1c5b"
+    },
+    {
+     "name": "05.jpg",
+     "size": 186375,
+     "sha256": "d9275458a5dc207891f417332d3ed0fb497c05fff71b96424080fa38399dc454"
+    },
+    {
+     "name": "06.jpg",
+     "size": 165258,
+     "sha256": "47d0610d1939e00385f574d5328baa2773d9f7c9a4b7893b4afc38e7f79505a9"
+    },
+    {
+     "name": "07.jpg",
+     "size": 165152,
+     "sha256": "c1d8074334d6d591635b2fe7ed400ca75b03f0c4272e35fe5035550ae1011d47"
+    },
+    {
+     "name": "caption.txt",
+     "size": 738,
+     "sha256": "87121ef7dfff6767e02588bd9f30f4238971552545811d098e5bb89d48a5b68a"
+    },
+    {
+     "name": "post.json",
+     "size": 232,
+     "sha256": "f7caeb200cc514ec17477036ad6abd193f519a1d33d607b4c3c4ba85959114d0"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-23-2000-carousel-n58-choose-your-hard",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 146260,
+     "sha256": "a115926c5b9b750f86f773e25be72ec39c611ce292dae5aa89f4448befd55e39"
+    },
+    {
+     "name": "02.jpg",
+     "size": 137804,
+     "sha256": "0ddc0fa2b198d3c905ee8ec76dd231d6b4fcacd4fa984d37178adc605b6a2fcc"
+    },
+    {
+     "name": "03.jpg",
+     "size": 168297,
+     "sha256": "da7ea33dec1c562d52b3c73b28d38b3f84fdd5c7888ff5997ae5ae8d0779c373"
+    },
+    {
+     "name": "04.jpg",
+     "size": 205575,
+     "sha256": "da3f2b27cba163cb8d642c364e0fd90acfaaa2449de12b76d8a5881943553e70"
+    },
+    {
+     "name": "05.jpg",
+     "size": 174533,
+     "sha256": "f629b8cc9652173ca1ac6ea0522e445c7e9b2cf49501dab7a7c32f279a4e37b1"
+    },
+    {
+     "name": "06.jpg",
+     "size": 150341,
+     "sha256": "d75712984a3da989a64b569436942ae5c23b89bb8e248127b38bf0df92ec8f0f"
+    },
+    {
+     "name": "caption.txt",
+     "size": 697,
+     "sha256": "746265c9f4d084fe5c54b675ce02c363d2b5649653cefed61e9c2c3a136ac71f"
+    },
+    {
+     "name": "post.json",
+     "size": 229,
+     "sha256": "310cbc86a16d2a559867272e235e85546ade2bcff044ff05879c8e7dae96e3cd"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-24-1100-carousel-n59-status-watch",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 151647,
+     "sha256": "1c3de8be4f7157d8ad42f678fa608344dbb4c21f592c7cf4e0f7ca8c6861042b"
+    },
+    {
+     "name": "02.jpg",
+     "size": 148252,
+     "sha256": "59d5831fcdce63cd84be056ff2754e4d697e479430f2e8036c4cc85b7d1cc9f0"
+    },
+    {
+     "name": "03.jpg",
+     "size": 198443,
+     "sha256": "6aa4cd792376d707327d31784e5c224e087078db45b940ea523e7224c9a8e3d5"
+    },
+    {
+     "name": "04.jpg",
+     "size": 189481,
+     "sha256": "05cbc15a43873fb99438e01e50a4566acbc9096679fd87ea372349464f0ea4f8"
+    },
+    {
+     "name": "05.jpg",
+     "size": 215558,
+     "sha256": "fda1552344397518197e55d4234b9f84d8d65e193830d6fbeafd9c0c29f67af1"
+    },
+    {
+     "name": "06.jpg",
+     "size": 164873,
+     "sha256": "02a75538851e2ee87d3c0afa153e83c2e5b7c048d0ab7eff4b135ff5f30398d1"
+    },
+    {
+     "name": "07.jpg",
+     "size": 168712,
+     "sha256": "695d85247929004adf784618cce8295f24688469fcee404bb551c04af3d674f2"
+    },
+    {
+     "name": "caption.txt",
+     "size": 779,
+     "sha256": "c9ea040852bb93fde4357776dc10a3632e07a2f81f38cc40f2bbcaed938f100b"
+    },
+    {
+     "name": "post.json",
+     "size": 252,
+     "sha256": "bb4e11dfc91d2f15f9fa14f1940e73a27acf855834017b7de9bbe3d5d32d1688"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-24-1500-carousel-n60-risk-reward",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 156382,
+     "sha256": "cbe807ad57bcd1bcad9a51d10e983b6e90d0b1e832e47f18c49f921bf42873d3"
+    },
+    {
+     "name": "02.jpg",
+     "size": 150876,
+     "sha256": "0e99d9bc9be921aa987914b0a157f74439f643678ef3ab1b65ffd0357700918a"
+    },
+    {
+     "name": "03.jpg",
+     "size": 157521,
+     "sha256": "86985b1d5629eebcdbbd0b5903fb63360d33150dd9d69eb6497f4a6b4e462bf8"
+    },
+    {
+     "name": "04.jpg",
+     "size": 208370,
+     "sha256": "124d9bca35656695f1ee8088bb732c9d86cc27735b17691c42defd975588a7c8"
+    },
+    {
+     "name": "05.jpg",
+     "size": 205369,
+     "sha256": "7552ebffca9ce22b3fff4ba399f129ce97babb46e4ea0546fe4d910bdeaed68b"
+    },
+    {
+     "name": "06.jpg",
+     "size": 191417,
+     "sha256": "aaa84482bacb6c08a6ddf06028781abaf71b1df6b00304694060c21a0580bed7"
+    },
+    {
+     "name": "07.jpg",
+     "size": 159145,
+     "sha256": "91aaf48573a28fc718be39b1cbca1fa82046833175e121e3a4b7875b74ae1bcd"
+    },
+    {
+     "name": "caption.txt",
+     "size": 783,
+     "sha256": "31bbf57a81c69883cdaf7291d39a99beb35b428783a196821eac92a069c5f02b"
+    },
+    {
+     "name": "post.json",
+     "size": 213,
+     "sha256": "2ac0a7870354d829fe965a8cda89216fa0d6dd311ba42ae7db89ec7ef68f598d"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-24-2000-carousel-n61-stay-a-student",
+   "files": [
+    {
+     "name": "01.jpg",
+     "size": 146987,
+     "sha256": "84e1236f53694f82c695c2ebb04a2c8f52618247fd7109b62a015313724d628e"
+    },
+    {
+     "name": "02.jpg",
+     "size": 146668,
+     "sha256": "fa51e63cfe09d5ab50f47f530078db903cc09b54b935ca12eec98b113f3c231e"
+    },
+    {
+     "name": "03.jpg",
+     "size": 200252,
+     "sha256": "f951c8b7d8ed6066680b4aaf5b7d1222f374c65e5154538eab25b2f5962fcbbe"
+    },
+    {
+     "name": "04.jpg",
+     "size": 200219,
+     "sha256": "a5deae58a349bc6486b66413fb4e68cfa8c323cd03722fa88e2b52d7e28f5f47"
+    },
+    {
+     "name": "05.jpg",
+     "size": 166029,
+     "sha256": "88356657514ba9ea869b72a0a82aa7dff2b8955fc09d2f3f05ca792f626fdf50"
+    },
+    {
+     "name": "06.jpg",
+     "size": 150787,
+     "sha256": "9c268706ac44560ac292d62c537493bd63736b47b4eeb89a483a34ebab3cfc07"
+    },
+    {
+     "name": "07.jpg",
+     "size": 164504,
+     "sha256": "959dfdce5c517a76273c0fb0e6160a672f13de2efc257d0d0c72b5cc4068b56d"
+    },
+    {
+     "name": "caption.txt",
+     "size": 796,
+     "sha256": "06acb8dc366ba1192f63a3fdd1b3a99a280c6decbcff6650abd10f000911ae8f"
+    },
+    {
+     "name": "post.json",
+     "size": 245,
+     "sha256": "9f6cf1130878531572bfb2e1b9d439ec4c83fc590b5d494094b202f2867af278"
+    }
+   ]
+  },
+  {
    "name": "2099-12-31-0000-cloud-sync-test",
    "files": [
     {
