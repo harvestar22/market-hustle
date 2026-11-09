@@ -1,9 +1,10 @@
 {
  "kind": "reel",
  "title": "Trust the Process",
- "date": "2026-12-04",
- "time": "18:00",
+ "date": "2026-11-22",
+ "time": "16:00",
  "video": "grid/2026-12-04-1805-reel-op90-mh087-trust-the-process/op90-mh-087-v2.mp4",
  "studio": "op90 MH-087 V2",
- "grid_row": "op90"
+ "grid_row": "op90",
+ "trial": true
 }

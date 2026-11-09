@@ -1,9 +1,10 @@
 {
  "kind": "reel",
  "title": "Two Traders, Same $1,000",
- "date": "2026-11-16",
- "time": "09:00",
+ "date": "2026-11-13",
+ "time": "10:00",
  "video": "grid/2026-11-16-0905-reel-op90-mh031-two-traders-same-1000/op90-mh-031-v2.mp4",
  "studio": "op90 MH-031 V2",
- "grid_row": "op90"
+ "grid_row": "op90",
+ "trial": true
 }

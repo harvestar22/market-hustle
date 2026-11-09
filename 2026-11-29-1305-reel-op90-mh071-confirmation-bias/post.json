@@ -1,9 +1,10 @@
 {
  "kind": "reel",
  "title": "Confirmation Bias",
- "date": "2026-11-29",
- "time": "13:00",
+ "date": "2026-11-19",
+ "time": "21:00",
  "video": "grid/2026-11-29-1305-reel-op90-mh071-confirmation-bias/op90-mh-071-v2.mp4",
  "studio": "op90 MH-071 V2",
- "grid_row": "op90"
+ "grid_row": "op90",
+ "trial": true
 }

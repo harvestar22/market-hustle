@@ -1,9 +1,10 @@
 {
  "kind": "reel",
  "title": "One Grain at a Time",
- "date": "2026-11-26",
- "time": "18:00",
+ "date": "2026-11-18",
+ "time": "16:00",
  "video": "grid/2026-11-26-1805-reel-op90-mh063-one-grain-at-a-time/op90-mh-063-v2.mp4",
  "studio": "op90 MH-063 V2",
- "grid_row": "op90"
+ "grid_row": "op90",
+ "trial": true
 }

@@ -1,9 +1,10 @@
 {
  "kind": "reel",
  "title": "Status Quo Bias",
- "date": "2026-12-05",
- "time": "13:00",
+ "date": "2026-11-22",
+ "time": "21:00",
  "video": "grid/2026-12-05-1305-reel-op90-mh089-status-quo-bias/op90-mh-089-v2.mp4",
  "studio": "op90 MH-089 V2",
- "grid_row": "op90"
+ "grid_row": "op90",
+ "trial": true
 }

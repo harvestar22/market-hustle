@@ -1,9 +1,10 @@
 {
  "kind": "reel",
  "title": "Two Responses to a Red Day",
- "date": "2026-11-30",
- "time": "09:00",
+ "date": "2026-11-20",
+ "time": "10:00",
  "video": "grid/2026-11-30-0905-reel-op90-mh073-red-day-different-night/op90-mh-073-v2.mp4",
  "studio": "op90 MH-073 V2",
- "grid_row": "op90"
+ "grid_row": "op90",
+ "trial": true
 }

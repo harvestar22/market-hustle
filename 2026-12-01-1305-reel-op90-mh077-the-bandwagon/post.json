@@ -1,9 +1,10 @@
 {
  "kind": "reel",
  "title": "The Bandwagon",
- "date": "2026-12-01",
- "time": "13:00",
+ "date": "2026-11-20",
+ "time": "21:00",
  "video": "grid/2026-12-01-1305-reel-op90-mh077-the-bandwagon/op90-mh-077-v2.mp4",
  "studio": "op90 MH-077 V2",
- "grid_row": "op90"
+ "grid_row": "op90",
+ "trial": true
 }

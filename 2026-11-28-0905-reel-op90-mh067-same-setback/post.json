@@ -1,9 +1,10 @@
 {
  "kind": "reel",
  "title": "Same Setback",
- "date": "2026-11-28",
- "time": "09:00",
+ "date": "2026-11-19",
+ "time": "10:00",
  "video": "grid/2026-11-28-0905-reel-op90-mh067-same-setback/op90-mh-067-v2.mp4",
  "studio": "op90 MH-067 V2",
- "grid_row": "op90"
+ "grid_row": "op90",
+ "trial": true
 }
