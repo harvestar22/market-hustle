@@ -3501,6 +3501,56 @@
    ]
   },
   {
+   "name": "2026-11-26-0910-reel-op90-mh113-your-memory-edits-your-trades",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 388,
+     "sha256": "77d8e253c44fa5285de14b3e2624f735ba027fb8d7c36afc01e5a298b702482f"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 120538,
+     "sha256": "35bc0188573174af4a134a87eaa159422f85e0d8d664f2bb5d53b509a21426df"
+    },
+    {
+     "name": "op90-mh-113-v2.mp4",
+     "size": 5774715,
+     "sha256": "cab67d53c4b9ee5287ff9de329cfc30927bea2577ede77675182910960ff0cf6"
+    },
+    {
+     "name": "post.json",
+     "size": 252,
+     "sha256": "25b0a6b3a5883f02910c4ef0d6df83eb2261765f079b7f8bee1a1e3c2c77213e"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-26-1005-reel-op90-mh109-the-coin-has-no-memory",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 398,
+     "sha256": "d6ea0036a9807ac555fbef65d573c227ffb8cb03f5ac3b569426bb35d1ce46cc"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 148624,
+     "sha256": "32d2577b1b82f9ec6231e7f699118c9c8daf1cabfcb9f8de4a7dd362e90c73b7"
+    },
+    {
+     "name": "op90-mh-109-v2.mp4",
+     "size": 5511709,
+     "sha256": "ae09cad51986b3e965568aaf6db2558991e9bfa5095d813876f8a417512f266c"
+    },
+    {
+     "name": "post.json",
+     "size": 254,
+     "sha256": "62088b24fec4ec50714d712e9d6d6b1fd9a86921c52d6d421b996736ac973087"
+    }
+   ]
+  },
+  {
    "name": "2026-11-26-1100-carousel-n65-ugly-middle",
    "files": [
     {
@@ -3576,6 +3626,31 @@
    ]
   },
   {
+   "name": "2026-11-26-1310-reel-op90-mh111-free-money-vanishes-faster",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 372,
+     "sha256": "5f1cc0ec254463a15884308cceb6929b19cc5e942eaea02e61cebd022c861ac3"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 118232,
+     "sha256": "8797cb04f9b12ac3d28bf6878719a50211d75826ca998dd682eda01d0e93f6b8"
+    },
+    {
+     "name": "op90-mh-111-v2.mp4",
+     "size": 5312816,
+     "sha256": "e63b74b3f83fa04b4b20520bc1cebc4d0b86ab4fb1f4562f2b5e65b7e7e0931a"
+    },
+    {
+     "name": "post.json",
+     "size": 246,
+     "sha256": "e19a381ae6e2dc1a657aa999012ee178c83942b7b8e8ab5f0ec705d99804c957"
+    }
+   ]
+  },
+  {
    "name": "2026-11-26-1500-carousel-n66-say-no",
    "files": [
     {
@@ -3626,6 +3701,31 @@
    ]
   },
   {
+   "name": "2026-11-26-1605-reel-op90-mh110-the-feelings-rollercoaster",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 389,
+     "sha256": "45cc7da9924e1cdc70700ece1bf960cc4df0ff3b78743a02d138d4e5e909b972"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 118350,
+     "sha256": "e7dc316e0341e122efb7a11cbb966164433cded13f448abb936ca13d9ff377e9"
+    },
+    {
+     "name": "op90-mh-110-v2.mp4",
+     "size": 5166770,
+     "sha256": "3df0aa93774af4613e70073ca73799007ffb744a1f159aec60db122b02d8bca8"
+    },
+    {
+     "name": "post.json",
+     "size": 262,
+     "sha256": "29029e727c0060f29a0623af0049f3ef1f8f654fb4f5aeb0e1aa4b1d1f357ba2"
+    }
+   ]
+  },
+  {
    "name": "2026-11-26-1805-reel-op90-mh063-one-grain-at-a-time",
    "files": [
     {
@@ -3647,6 +3747,31 @@
      "name": "post.json",
      "size": 249,
      "sha256": "2da295ba079030abbe8896c3470bedfae00b120eaddd2417c9f49bb2d80af807"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-26-1810-reel-op90-mh114-your-brain-isn-t-a-to-do-list",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 303,
+     "sha256": "bbe724adda6d97e6b337d66f8efb6e96ad7971a84380abe0604c8865e608349c"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 122182,
+     "sha256": "d23bd09f79a083dbac9b433c180be30fdeef237df314021bae081f9dca0fcda4"
+    },
+    {
+     "name": "op90-mh-114-v2.mp4",
+     "size": 6172854,
+     "sha256": "1fa65bb4a3f4070cf0faeca9e82e867736df804b17fd54ec4e3ba4476df8643a"
+    },
+    {
+     "name": "post.json",
+     "size": 252,
+     "sha256": "e11ad6a4658c39b1e7c2b32eb7f7d35f6f90a1ca77f979ea7f6aa01cbb749f04"
     }
    ]
   },
@@ -3701,6 +3826,31 @@
    ]
   },
   {
+   "name": "2026-11-26-2105-reel-op90-mh112-five-wins-in-a-row",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 375,
+     "sha256": "2ecc93466463d1a9b4406f667d07adade5bfebf6477b3f9e4a77bd19e96a0f1d"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 103203,
+     "sha256": "1e871f535067259673061acd1531ca2bbe753a3712348e4cb420713385d64baa"
+    },
+    {
+     "name": "op90-mh-112-v2.mp4",
+     "size": 5042847,
+     "sha256": "ab692e64b45d036fc4a4b38bd7185c5ddaae4c4e39cfbcfe5900097f099c8717"
+    },
+    {
+     "name": "post.json",
+     "size": 246,
+     "sha256": "a181dd207e2044087e3d1a6ff300a62d04ecfb9c3fd808446833fed06c58d5c1"
+    }
+   ]
+  },
+  {
    "name": "2026-11-27-0905-reel-op90-mh064-their-trophy-your-day-one",
    "files": [
     {
@@ -3722,6 +3872,56 @@
      "name": "post.json",
      "size": 246,
      "sha256": "f44b8efc63e77bc75268d26528fe288ad583dd22974a1ee7df96b37f4e63705e"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-27-0910-reel-op90-mh115-the-airbag-fund",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 364,
+     "sha256": "97b5a09b03656fc7374b58717d93d7029cd20b8cff95c3a008ea985aabacd244"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 133075,
+     "sha256": "7321ed9eecf3cd7823f0d8039c1adced08b0cb13c91e3ddefa31a91dde5912e6"
+    },
+    {
+     "name": "op90-mh-115-v2.mp4",
+     "size": 5003229,
+     "sha256": "3d3446721ebfbd26e3b3052416db662f3026f7f7b192477c13df004c39bf535c"
+    },
+    {
+     "name": "post.json",
+     "size": 224,
+     "sha256": "2de1fde786bed2c167c640368716fee835685062a64ed22ca738dec4e6733255"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-27-1005-reel-op90-mh116-bored-is-not-a-setup",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 371,
+     "sha256": "16a958b830ac34cc1f869f2e1fee0eb283d14ea625576811b7af7140d471a7c5"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 121343,
+     "sha256": "a91b35a325f69b5fa3f23f3284e5eec4bf76cd056002bb8acbd5c94fd41cb5ba"
+    },
+    {
+     "name": "op90-mh-116-v2.mp4",
+     "size": 5336516,
+     "sha256": "2ccd174acee394f27f8999f9138abe442eeaabb96e679caae9bcf17e10977cc2"
+    },
+    {
+     "name": "post.json",
+     "size": 250,
+     "sha256": "339c55f20920f889eb5aaad929218c4f0d262a04a68b0f65b653c576e73c9549"
     }
    ]
   },
@@ -3801,6 +4001,31 @@
    ]
   },
   {
+   "name": "2026-11-27-1310-reel-op90-mh118-learn-to-swim-in-the-water",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 300,
+     "sha256": "f87de41fcbd827ca62eb9e53e79033519ff7cb645e9a6eea0442e720bdf89fbe"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 125722,
+     "sha256": "de87dad212e79329a84494f367a23299a346705d426d0d68f4b71960d42a0eb0"
+    },
+    {
+     "name": "op90-mh-118-v2.mp4",
+     "size": 6608228,
+     "sha256": "060e3af126ab1cc6195d3cc5738cb2cfe2b4601ab52f4bbfc7c53c9e563322a9"
+    },
+    {
+     "name": "post.json",
+     "size": 246,
+     "sha256": "0c2a6976346e8efc761d6d596e42c7bb18555c5dffa10c04b42365a3d487cafb"
+    }
+   ]
+  },
+  {
    "name": "2026-11-27-1500-carousel-n69-thirty-day-skill",
    "files": [
     {
@@ -3851,6 +4076,31 @@
    ]
   },
   {
+   "name": "2026-11-27-1605-reel-op90-mh117-everyone-in-the-comments-is-winning",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 402,
+     "sha256": "1c4ddf01f11b333f1a0b9b3d083791ab5e30139228c4f3372e2c1983496797dd"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 174836,
+     "sha256": "914493e39220202b59dd5d435fecd2d3dc842e6df67cbb5152504c291424d185"
+    },
+    {
+     "name": "op90-mh-117-v2.mp4",
+     "size": 6206627,
+     "sha256": "a8f4e0d33aa031dbbe91f898631d241e23a416fb308148544d146e65738c81d7"
+    },
+    {
+     "name": "post.json",
+     "size": 280,
+     "sha256": "c8058104ebfb8bd253cbebef86c5edd80cf553a3d169718af2deee3e05385158"
+    }
+   ]
+  },
+  {
    "name": "2026-11-27-1805-reel-op90-mh066-show-up-anyway",
    "files": [
     {
@@ -3872,6 +4122,31 @@
      "name": "post.json",
      "size": 223,
      "sha256": "79d7ab8768ab81b5d90947c844d604d39c1733b60a2650840dcc7ba1cbae934d"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-27-1810-reel-op90-mh120-every-yes-costs-an-hour",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 287,
+     "sha256": "7750895a7ab92c174a8d5d5d381b0692ef1c65c97c5294100a00aefe170f983d"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 136394,
+     "sha256": "76683cfc4bba6c20bd04b26e32ca507091cac999e3f02a0d1a896aafbb1f62c2"
+    },
+    {
+     "name": "op90-mh-120-v2.mp4",
+     "size": 5391420,
+     "sha256": "369446980848a277dade248af916181f4c0d774983277e382f224e3bac0220de"
+    },
+    {
+     "name": "post.json",
+     "size": 240,
+     "sha256": "91e75a8ab0b40fffcc4dc1d5c181c26089642d75803ad945417f4dbd675108a4"
     }
    ]
   },
@@ -3926,6 +4201,31 @@
    ]
   },
   {
+   "name": "2026-11-27-2105-reel-op90-mh119-one-bad-comment",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 308,
+     "sha256": "68897b38594527658827ad5b6600513af2bc9033d9a5958f86e9d6914f29de08"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 117022,
+     "sha256": "c20b4e4a9dd7f5749498aefabce595a7e4602baee0bc241387e1233932beadea"
+    },
+    {
+     "name": "op90-mh-119-v2.mp4",
+     "size": 5483849,
+     "sha256": "325e1d8bdcf3ca57ca10e9f515ea27b26afb8e8e570574e124b2384374aaf7d3"
+    },
+    {
+     "name": "post.json",
+     "size": 240,
+     "sha256": "cd410edc45238926bfc6d44d64518c3c9ad52b8dc0810755070fd699cab9bccd"
+    }
+   ]
+  },
+  {
    "name": "2026-11-28-0905-reel-op90-mh067-same-setback",
    "files": [
     {
@@ -3947,6 +4247,56 @@
      "name": "post.json",
      "size": 235,
      "sha256": "a09a2d50093691a98eb6629064998457bb8626a2675caebcad2e61ac18154721"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-28-0910-reel-op90-mh123-stack-it-on-the-coffee",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 266,
+     "sha256": "3affd72d6feac344c7211aa3dadd2adf55d7c5732700acedecedf5752a6edbcb"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 113401,
+     "sha256": "c5a33c5077f24d9ec0223a51ea7078880e38b636d68dd634ce7c0f190f5931c1"
+    },
+    {
+     "name": "op90-mh-123-v2.mp4",
+     "size": 5778912,
+     "sha256": "84d6b2a3cb04ef2809935d64f6af66aea6d3ba872d3574bf51a7dab9636c184d"
+    },
+    {
+     "name": "post.json",
+     "size": 238,
+     "sha256": "3f18a4b402126ce297d0c2585ad89c54b9117092242159afb4c0b463563d7d81"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-28-1005-reel-op90-mh121-stop-digging",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 404,
+     "sha256": "9ddf28c658b28d6846e099054a9952fc55608e9de493f204f2155fac48d29104"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 117174,
+     "sha256": "9ed619e90acc77f90aef43213084ec8ce6f6c6499bad04a07d7f880d750f4ac8"
+    },
+    {
+     "name": "op90-mh-121-v2.mp4",
+     "size": 5425278,
+     "sha256": "10bf00ef4f6b28404027249ed7ec98a81b2d5eddd74fa7c68a8a6a2ef1cbe1c2"
+    },
+    {
+     "name": "post.json",
+     "size": 234,
+     "sha256": "b0301021d6626bffa2db3ccb395989a5d1e56cd6192cba84c005c5ae92d6ae36"
     }
    ]
   },
@@ -4026,6 +4376,31 @@
    ]
   },
   {
+   "name": "2026-11-28-1310-reel-op90-mh124-cash-under-the-mattress",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 413,
+     "sha256": "d2b809499f0b216186513acaf87ae9174b114efc1d7bfdcf6fda9c47b216a9df"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 145075,
+     "sha256": "7727a3ea85b6011b10e6cfa1f6a6f83e613752263a7dd03b78035955efaf78a6"
+    },
+    {
+     "name": "op90-mh-124-v2.mp4",
+     "size": 5797663,
+     "sha256": "007b840b583a17276b5df2b36fa11b8d421f5c7e04399c9a30bf5be777977a1b"
+    },
+    {
+     "name": "post.json",
+     "size": 240,
+     "sha256": "17583494e80904f52f4cbb16b4d0cba479f8499da23bad06930fcfa0a5a103e6"
+    }
+   ]
+  },
+  {
    "name": "2026-11-28-1500-carousel-n72-size-a-trade",
    "files": [
     {
@@ -4076,6 +4451,31 @@
    ]
   },
   {
+   "name": "2026-11-28-1605-reel-op90-mh122-the-timer-resets",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 328,
+     "sha256": "f370a7b57de62376eca8ae8fcad89c6a6fb4d4c823c9d8d9f225f831c6910c28"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 119232,
+     "sha256": "0e018bce089519edbb48798144c324dfdfae8849ef4d7bbdf6826755b3a05330"
+    },
+    {
+     "name": "op90-mh-122-v2.mp4",
+     "size": 5560498,
+     "sha256": "8aac9a8be843c47b2b03f7b32116b3d8a994e9279d182fd81072456b329720a0"
+    },
+    {
+     "name": "post.json",
+     "size": 242,
+     "sha256": "4254c813691ce96aece206fbd410b3c6a17c0d2369b9f1466aecf8fbb24b2cd7"
+    }
+   ]
+  },
+  {
    "name": "2026-11-28-1805-reel-op90-mh069-you-vs-you",
    "files": [
     {
@@ -4097,6 +4497,31 @@
      "name": "post.json",
      "size": 231,
      "sha256": "6fb4011360bf7a35e14e17ae6030d1727ae0ac93be7741734a32faefdd94402d"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-28-1810-reel-op90-mh126-work-fills-the-box",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 300,
+     "sha256": "32944fb9500d4ecb1989eb73dfea6aabd85bcdc74fb24890c1f2330ac4b4e4f7"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 107506,
+     "sha256": "0abb1ae793e24a1a187b76314bae61c7852d63f2af21f1e2f43015826090bc7d"
+    },
+    {
+     "name": "op90-mh-126-v2.mp4",
+     "size": 5412149,
+     "sha256": "997e0d36376bff4f83ca55b574e234acf96f77de4ab1d22f640279b561077835"
+    },
+    {
+     "name": "post.json",
+     "size": 230,
+     "sha256": "f2622b46e12c66eee8c0e9968379d630333f9208f560f7e75bf310938f33acd3"
     }
    ]
   },
@@ -4147,6 +4572,31 @@
      "name": "post.json",
      "size": 210,
      "sha256": "7cc628bc3d64727e45b8b643c6a0e1847545a98fab112d16cddb8a566aed069b"
+    }
+   ]
+  },
+  {
+   "name": "2026-11-28-2105-reel-op90-mh125-version-1-beats-version-0",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 301,
+     "sha256": "9fa0bb8205c99be504eebf240f35e6ae5a939ebed97dadcda453ac55e77d6497"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 109310,
+     "sha256": "03a88b279bc83c65571111df8ef14a66725e78542105ceb527a5d643de5d924a"
+    },
+    {
+     "name": "op90-mh-125-v2.mp4",
+     "size": 5180652,
+     "sha256": "5a98d00ddbe2514a40ac3acd2dadf9c0ca2a3f24992be6287e032078a60f3153"
+    },
+    {
+     "name": "post.json",
+     "size": 260,
+     "sha256": "1bc2aa348079d7864f77bcd3d20cfb260e542a30e22a46f860f7918773add7dc"
     }
    ]
   },
