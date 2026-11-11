@@ -4601,6 +4601,31 @@
    ]
   },
   {
+   "name": "2026-11-29-0905-reel-op90-mh028-the-compound-snowball",
+   "files": [
+    {
+     "name": "caption.txt",
+     "size": 245,
+     "sha256": "dd1fa14d84ab6b73251eef0882be83ef80d2c7586cfab8ce0450d0c4aab0a872"
+    },
+    {
+     "name": "cover.jpg",
+     "size": 153917,
+     "sha256": "7f8a468e00d9b151cd6a63ac1688fe347b8182dba668dadc6d0373e9616e28d5"
+    },
+    {
+     "name": "op90-mh-028-v2.mp4",
+     "size": 6607347,
+     "sha256": "65cf143046762508538b3da0e237179ea2d2f940009e712892420f0552cba608"
+    },
+    {
+     "name": "post.json",
+     "size": 311,
+     "sha256": "77756920be57ddc76a5e212bc643e0d32e45beda78a68df2512d775ff8a1140f"
+    }
+   ]
+  },
+  {
    "name": "2026-11-29-0905-reel-op90-mh070-the-fast-money-door",
    "files": [
     {
